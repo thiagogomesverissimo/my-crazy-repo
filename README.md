@@ -70,18 +70,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>No</td>
     </tr>
     <tr>
-        <td>A4</td>
-        <td>Circuitos</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/">
-                mit ocw 6.002: Circuits and Electronics (2007)
-            </a>
-        </td>
-        <td></td>
-        <td>Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits</td>
-        <td>No</td>
-    </tr>
-    <tr>
         <td>A5</td>
         <td>Ielts</td>
         <td>
@@ -90,12 +78,85 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
         </td>
         <td></td>
-        <td>Livro oficial do Ielts</td>
+        <td>Ofcial Ielts Book</td>
         <td>No</td>
     </tr>
 </table> 
 
-<br><br><br><br>
+<br><br>
+
+### Module B
+
+<table style="width:100%">
+    <tr>
+        <th>My code</th>
+        <th>Name</th>
+        <th>Course 1</th>
+        <th>Course 2</th>
+        <th>Books</th>
+        <th>completed?</th>
+    </tr>
+    <tr>
+        <td>B1</td>
+        <td>Circuitos</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/">
+                mit ocw 6.002: Circuits and Electronics (2007)
+            </a>
+        </td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">
+                Aulas em Pt-br
+            </a>
+        </td>
+        <td>Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>B2</td>
+        <td>Probabilidade</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/">
+                mit ocw 6.041: Probabilidade (2010)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td>No</td>
+    </tr>
+</table> 
+
+<br><br>
+
+### Module C
+
+<table style="width:100%">
+    <tr>
+        <th>My code</th>
+        <th>Name</th>
+        <th>Course 1</th>
+        <th>Course 2</th>
+        <th>Books</th>
+        <th>completed?</th>
+    </tr>
+    <tr>
+    <a href="">Estatística</a>
+        <td>C1</td>
+        <td>Estatística</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/">
+                mit ocw 18.650: Estatística (2016)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td>No</td>
+    </tr>
+</table> 
+
+<br><br>
 
 CS50's Introduction to Artificial Intelligence with Python
 https://cs50.harvard.edu/ai/2024/
