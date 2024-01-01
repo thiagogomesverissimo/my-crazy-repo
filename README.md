@@ -41,7 +41,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>No</td>
     </tr>
-
     <tr>
         <td>m2</td>
         <td>Mathematics for Computer Science</td>
@@ -59,7 +58,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>No</td>
     </tr>
-
 </table> 
 
 
