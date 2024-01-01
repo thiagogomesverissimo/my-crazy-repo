@@ -80,6 +80,18 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits</td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>A5</td>
+        <td>Ielts</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/ielts-preparation">
+                Formação Ielts do coursera
+            </a>
+        </td>
+        <td></td>
+        <td>Livro oficial do Ielts</td>
+        <td>No</td>
+    </tr>
 </table> 
 
 <br><br><br><br>
