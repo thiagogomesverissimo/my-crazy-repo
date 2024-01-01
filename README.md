@@ -165,7 +165,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
                 mit 6.006 (2020)
             </a>
         </td>
-        <td>Cormem</td>
+        <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
         <td>No</td>
     </tr>
     <tr>
@@ -248,7 +248,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
         </td>
-        <td></td>
+        <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
         <td>No</td>
     </tr>
     <tr>
