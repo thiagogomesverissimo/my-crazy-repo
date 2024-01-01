@@ -101,7 +101,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Circuitos</td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/">
-                mit 6.002: Circuits and Electronics (2007)
+                mit 6.002 (2007)
             </a>
         </td>
         <td>
@@ -117,7 +117,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Probabilidade</td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/">
-                mit 6.041: Probabilidade (2010)
+                mit 6.041 (2010)
             </a>
         </td>
         <td>
@@ -130,7 +130,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Linear Algebra</td>
         <td>
             <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010">
-                mit 18.06: Linear Algebra (2010)
+                mit 18.06 (2010)
             </a>
         </td>
         <td>
