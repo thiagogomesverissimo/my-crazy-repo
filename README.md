@@ -44,16 +44,15 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>m2</td>
         <td>Mathematics for Computer Science</td>
         <td>
-            <a herf="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/">
+            <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">
                 mit ocw 6.042J (2010)
             </a>
         </td>
         <td></td>
-        <td></td>
         <td>
-            Introduction to Computation and Programming Using Python.
-            <br><b>John V. Guttag</b>
-            <br> Second Edition
+            Mathematics for Computer Science
+            <br><b>Eric Lehman</b>
+            <br> Course notes.
         </td>
         <td>No</td>
     </tr>
