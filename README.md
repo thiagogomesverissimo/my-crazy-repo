@@ -70,6 +70,20 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>No</td>
     </tr>
     <tr>
+        <td>A4</td>
+        <td>Cálculo 1/td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">
+                mit 18.01 (2006)
+            </a>
+            <br><br>
+            <a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation</a>
+        </td>
+        <td></td>
+        <td>Simmons, George F. Calculus with Analytic Geometry. 2nd ed. </td>
+        <td>No</td>
+    </tr>
+    <tr>
         <td>A5</td>
         <td>Ielts</td>
         <td>
@@ -138,6 +152,36 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>B4</td>
+        <td>Algorithms</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">
+                mit 6.006 (2011)
+            </a>
+        </td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">
+                mit 6.006 (2020)
+            </a>
+        </td>
+        <td>Cormem</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>B5</td>
+        <td>Cálculo 2/td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">
+                mit 18.02 (2007)
+            </a>
+            <br><br>
+            <a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation</a>
+        </td>
+        <td></td>
+        <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
+        <td>No</td>
+    </tr>
 </table> 
 
 <br><br>
@@ -183,23 +227,10 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>XXX</td>
-        <td></td>
+        <td>Algorithms Analysis</td>
         <td>
-            <a href="#">
-                mit ?? (0000)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td></td>
-        <td>
-            <a href="#">
-                mit ?? (0000)
+            <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">
+                mit 6-046j (2015)
             </a>
         </td>
         <td>
