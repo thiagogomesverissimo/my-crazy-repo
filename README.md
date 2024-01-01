@@ -88,11 +88,11 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Ielts</td>
         <td>
             <a href="https://www.coursera.org/specializations/ielts-preparation">
-                Formação Ielts do coursera
+                Ielts Coursera
             </a>
         </td>
         <td></td>
-        <td>Ofcial Ielts Book</td>
+        <td>Oficial Ielts Book</td>
         <td>No</td>
     </tr>
 </table> 
@@ -170,7 +170,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>B5</td>
-        <td>Cálculo 2/td>
+        <td>Cálculo 2</td>
         <td>
             <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">
                 mit 18.02 (2007)
