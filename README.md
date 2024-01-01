@@ -123,14 +123,6 @@ https://cs50.harvard.edu/web/2020/
 
 
 
-Name| Course 1 | Course 2 | Books | Notes | Done
-:-- | :--: | :--: | :--: | :--: | :--:
-Introduction CS | mit ocw 2011 | mit ocw 2016 | Algoritmos; Lógica de Programação; Python; Testes. |aa| 
-[Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | - | GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação: Matemática Discreta e suas Aplicações.
-[Ciência da Computação 50 (CC50)](https://materiais.estudarfora.org.br/cc50-harvard/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | - | -
-[Leitura e Produção de Textos](https://youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | - | -
-[Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | - | Tanenbaum, Andrews S. Organização Estruturada de Computadores.
-
 
 ### Aprofundamento de Conceitos Introdutórios
 
