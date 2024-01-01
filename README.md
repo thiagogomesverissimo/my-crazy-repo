@@ -9,7 +9,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <th>Name</th>
         <th>Course 1</th>
         <th>Course 2</th>
-        <th>Notes</th>
         <th>Books</th>
         <th>completed?</th>
     </tr>
@@ -20,6 +19,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             <a herf="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
                 mit ocw 6.00 (2011)
             </a>
+            <br><br>
             <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">
                 playlist das aulas no youtube
             </a>
@@ -33,7 +33,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
                 mit ocw 6.00 (2016) - parte 2
             </a>
         </td>
-        <td></td>
         <td>
             Introduction to Computation and Programming Using Python.
             <br><b>John V. Guttag</b>
