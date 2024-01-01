@@ -50,9 +50,10 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td></td>
         <td>
-            Mathematics for Computer Science
-            <br><b>Eric Lehman</b>
-            <br> Course notes.
+            <ul>
+                <li>Mathematics for Computer Science. Eric Lehman. Course notes</li>
+                <li>How to Prove It: A Structured Approach. Daniel J. Velleman. 2nd Edition</li>
+            </ul>
         </td>
         <td>No</td>
     </tr>
