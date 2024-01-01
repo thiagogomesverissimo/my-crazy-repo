@@ -1,7 +1,11 @@
 Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
 
+
+### Module 1
+
 <table style="width:100%">
     <tr>
+        <th>My code</th>
         <th>Name</th>
         <th>Course 1</th>
         <th>Course 2</th>
@@ -10,13 +14,23 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <th>completed?</th>
     </tr>
     <tr>
+        <td>m1</td>
         <td>Introduction CS</td>
         <td>
-            <a herf="#">mit ocw 2011</a>
+            <a herf="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
+                mit ocw 6.00 (2011)
+            </a>
+            <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">
+                playlist das aulas no youtube
+            </a>
         </td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">
-                mit ocw 2016
+                mit ocw 6.00 (2016) - parte 1
+            </a>
+            <br><br>
+            <a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016">
+                mit ocw 6.00 (2016) - parte 2
             </a>
         </td>
         <td></td>
@@ -25,11 +39,29 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             <br><b>John V. Guttag</b>
             <br> Second Edition
         </td>
-        <td></td>
+        <td>No</td>
     </tr>
+
+    <tr>
+        <td>m2</td>
+        <td>Mathematics for Computer Science</td>
+        <td>
+            <a herf="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/">
+                mit ocw 6.042J (2010)
+            </a>
+        </td>
+        <td></td>
+        <td></td>
+        <td>
+            Introduction to Computation and Programming Using Python.
+            <br><b>John V. Guttag</b>
+            <br> Second Edition
+        </td>
+        <td>No</td>
+    </tr>
+
 </table> 
 
-### Module 1
 
 
 Name| Course 1 | Course 2 | Books | Notes | Done
