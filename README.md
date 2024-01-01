@@ -17,7 +17,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Introduction in Programming</td>
         <td>
             <a href="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
-                mit ocw 6.00 (2011)
+                mit 6.0x (2011)
             </a>
             <br><br>
             <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">
@@ -26,11 +26,11 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">
-                mit ocw 6.00 (2016) - parte 1
+                mit 6.0001 (2016) - parte 1
             </a>
             <br><br>
             <a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016">
-                mit ocw 6.00 (2016) - parte 2
+                mit 6.0002 (2016) - parte 2
             </a>
         </td>
         <td>
@@ -45,7 +45,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Mathematics for Computer Science</td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">
-                mit ocw 6.042J (2010)
+                mit 6.042J (2010)
             </a>
         </td>
         <td></td>
@@ -101,7 +101,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Circuitos</td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/">
-                mit ocw 6.002: Circuits and Electronics (2007)
+                mit 6.002: Circuits and Electronics (2007)
             </a>
         </td>
         <td>
@@ -117,7 +117,20 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Probabilidade</td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/">
-                mit ocw 6.041: Probabilidade (2010)
+                mit 6.041: Probabilidade (2010)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>B3</td>
+        <td>Linear Algebra</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010">
+                mit 18.06: Linear Algebra (2010)
             </a>
         </td>
         <td>
@@ -141,12 +154,806 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <th>completed?</th>
     </tr>
     <tr>
-    <a href="">Estatística</a>
         <td>C1</td>
         <td>Estatística</td>
         <td>
             <a href="https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/">
-                mit ocw 18.650: Estatística (2016)
+                mit 18.650 (2016)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+</table> 
+
+<br><br>
+
+### FALTA ORDENAR
+
+<table style="width:100%">
+    <tr>
+        <th>My code</th>
+        <th>Name</th>
+        <th>Course 1</th>
+        <th>Course 2</th>
+        <th>Books</th>
+        <th>completed?</th>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td></td>
+        <td>
+            <a href="#">
+                mit ?? (0000)
             </a>
         </td>
         <td>
