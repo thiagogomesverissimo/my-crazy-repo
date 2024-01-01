@@ -210,6 +210,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td></td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>C1</td>
+        <td>Theory of Computation</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">
+                mit 18.404J (2020)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Sipser, Michael. Introduction to the Theory of Computation. 3rd ed.</td>
+        <td>No</td>
+    </tr>
 </table> 
 
 <br><br>
@@ -240,15 +253,15 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>XXX</td>
-        <td></td>
+        <td>Artificial Intelligence</td>
         <td>
-            <a href="#">
-                mit ?? (0000)
+            <a href="https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/">
+                mit 6.034 (2010)
             </a>
         </td>
         <td>
         </td>
-        <td></td>
+        <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
         <td>No</td>
     </tr>
     <tr>
