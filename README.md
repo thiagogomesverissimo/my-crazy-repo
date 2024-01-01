@@ -16,7 +16,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>A1</td>
         <td>Introduction in Programming</td>
         <td>
-            <a herf="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
+            <a href="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
                 mit ocw 6.00 (2011)
             </a>
             <br><br>
@@ -151,7 +151,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
         </td>
-        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td></td>
         <td>No</td>
     </tr>
 </table> 
