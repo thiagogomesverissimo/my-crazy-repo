@@ -68,6 +68,18 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td></td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>A4</td>
+        <td>Circuitos</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/">
+                mit ocw 6.002: Circuits and Electronics (2007)
+            </a>
+        </td>
+        <td></td>
+        <td>Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits</td>
+        <td>No</td>
+    </tr>
 </table> 
 
 <br><br><br><br>
