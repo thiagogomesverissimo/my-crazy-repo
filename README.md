@@ -62,7 +62,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Introduction to Computer Science</td>
         <td>
             <a href="https://cs50.harvard.edu/x/2024/">
-                CS50x: Introduction to Computer Science (2024)
+                CS50x (2024)
             </a>
         </td>
         <td></td>
@@ -206,12 +206,15 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
         </td>
         <td>
+            <a href="https://www.coursera.org/specializations/statistics-with-python#courses">
+                Statistics Coursera
+            </a>
         </td>
-        <td></td>
+        <td>Probability and Statistics for Engineers and Scientists. Ronald E. Walpole</td>
         <td>No</td>
     </tr>
     <tr>
-        <td>C1</td>
+        <td>C2</td>
         <td>Theory of Computation</td>
         <td>
             <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">
@@ -226,6 +229,66 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
 </table> 
 
 <br><br>
+
+### Module D
+
+<table style="width:100%">
+    <tr>
+        <th>My code</th>
+        <th>Name</th>
+        <th>Course 1</th>
+        <th>Course 2</th>
+        <th>Books</th>
+        <th>completed?</th>
+    </tr>
+    <tr>
+        <td>D1</td>
+        <td>Graph Theory</td>
+        <td>
+            <a href="https://canvas.dartmouth.edu/courses/39351">
+                Dartmouth (2020)
+            </a>
+        </td>
+        <td>
+            Aulas Yoshiko
+        </td>
+        <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
+        <td>No</td>
+    </tr>
+</table>
+
+### Module E
+
+<table style="width:100%">
+    <tr>
+        <th>My code</th>
+        <th>Name</th>
+        <th>Course 1</th>
+        <th>Course 2</th>
+        <th>Books</th>
+        <th>completed?</th>
+    </tr>
+    <tr>
+        <td>E1</td>
+        <td>Arquitetura de Computadores</td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6">
+                Unicamp (parte 1)
+            </a>
+            <a href="https://www.ic.unicamp.br/~rodolfo/mc404/">
+                Infos
+            </a>            
+        </td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ">
+                Unicamp (parte 2)
+            </a>
+        </td>
+        <td>Edson Borin. An Introduction to Assembly Programming with RISC-V</td>
+        <td>No</td>
+    </tr>
+</table> 
+
 
 ### FALTA ORDENAR
 
@@ -260,16 +323,71 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
         </td>
         <td>
+            <a href="https://cs50.harvard.edu/ai/2024/">
+                cs50 ai (2024)
+            </a>
         </td>
         <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
         <td>No</td>
     </tr>
     <tr>
         <td>XXX</td>
-        <td></td>
+        <td>Physics I: Classical Mechanics</td>
         <td>
-            <a href="#">
-                mit ?? (0000)
+            <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">
+                mit 8.01x
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td>Physics II: Electricity and Magnetism</td>
+        <td>
+            <a href="ttps://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">
+                mit 8.02x
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td>Physics III: Vibrations and Waves</td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe">
+                mit 8.03x
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td>Quantum Physics</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013">
+                mit 8.04
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Esberg</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>XXX</td>
+        <td>Introduction to Nuclear Engineering and Ionizing Radiation</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016">
+                mit 22.01
             </a>
         </td>
         <td>
@@ -281,59 +399,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>XXX</td>
         <td></td>
         <td>
-            <a href="#">
-                mit ?? (0000)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td></td>
-        <td>
-            <a href="#">
-                mit ?? (0000)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td></td>
-        <td>
-            <a href="#">
-                mit ?? (0000)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td></td>
-        <td>
-            <a href="#">
-                mit ?? (0000)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td></td>
-        <td>
-            <a href="#">
+            <a href="">
                 mit ?? (0000)
             </a>
         </td>
@@ -1009,8 +1075,13 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
 
 <br><br>
 
-CS50's Introduction to Artificial Intelligence with Python
-https://cs50.harvard.edu/ai/2024/
+# ARRUMAR:
+
+- <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Big Data and Education</a>
+- <a href="#">Practical Learning Analytics</a>
+- <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> Vídeos Tibishirano Statistical Learning</a>
+
+Cursos de harvard:
  
 CS50 business
 https://cs50.harvard.edu/business/2017/
@@ -1034,6 +1105,57 @@ CS50 web
 https://cs50.harvard.edu/web/2020/
 
 
+Cursos de inglês:
+
+- <a href="https://www.coursera.org/specializations/speaklistenenglish#courses">Advanced Academic Speaking and Listening</a>
+- <a href="https://www.coursera.org/specializations/academic-english#courses">Academic English: Writing</a>
+- <a href="https://www.coursera.org/specializations/intermediate-grammar#courses">Intermediate Grammar</a>
+- <a href="https://www.coursera.org/specializations/toefl-preparation#courses">TOEFL Preparation</a>
+
+- <a href="https://www.coursera.org/learn/sciwrite/home/welcome">Writing in the Sciences</a>
+- <a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write a Scientific Paper </a>
+- <a href="https://www.coursera.org/learn/introduction-to-academic-writing">Introduction to Academic Writing </a>
+
+Especializações Cousera:
+
+- <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
+- <a href="https://www.coursera.org/specializations/data-science-python#courses">Applied Data Science with Python</a>
+- Web Design for Everybody: Basics of Web Development & Coding Specialization
+- Software Engineering Specialization
+- Introduction to Discrete Mathematics for Computer Science Specialization
+- Applied Data Science with Python Specialization 
+- Parallel, Concurrent, and Distributed Programming in Java Specialization
+- Big Data Specialization
+- Database systems Specialization
+- Mathematics for Machine Learning Specialization
+- Introductory C Programming Specialization
+- GIS, Mapping, and Spatial Analysis Specialization
+- Web Applications for Everybody Specialization
+- Data Structures and Algorithms Specialization
+
+Cursos avulsos:
+
+- <a href="https://www.coursera.org/learn/machine-learning-course/home/week/1">Curso Machine Learning (antigo) (Andrew Ng)</a>
+
+Cursos do coursera que não vou fazer
+
+- Server-side Development with NodeJS, Express and MongoDB
+- Processamento Neural de Linguagem Natural em Português I
+- The Modern World, Part One: Global History from 1760 to 1910
+- Think Again I: How to Understand Arguments
+- Historia del Arte: Del Arte Prehistórico al Renacimiento
+- Getting Started With Music Theory
+- Front-End Web Development with React
+- Front-End Web UI Frameworks and Tools: Bootstrap 4
+- ART of the MOOC: Activism and Social Movements
+- Laboratório de Programação Orientada a Objetos - Parte 1
+- Introduction to Deep Learning
+- Building Arduino robots and devices
+
+## Cursos Avulsos:
+
+- vue3: https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
+- ipv6: https://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about
 
 
 ### Aprofundamento de Conceitos Introdutórios
