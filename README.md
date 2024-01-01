@@ -71,7 +71,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>A4</td>
-        <td>Cálculo 1/td>
+        <td>Cálculo 1</td>
         <td>
             <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">
                 mit 18.01 (2006)
