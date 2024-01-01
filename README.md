@@ -14,7 +14,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>m1</td>
-        <td>Introduction CS</td>
+        <td>Introduction in Programming</td>
         <td>
             <a herf="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
                 mit ocw 6.00 (2011)
@@ -56,7 +56,45 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>m3</td>
+        <td>Introduction to Computer Science</td>
+        <td>
+            <a href="https://cs50.harvard.edu/x/2024/">
+                CS50x: Introduction to Computer Science (2024)
+            </a>
+        </td>
+        <td></td>
+        <td></td>
+        <td>No</td>
+    </tr>
 </table> 
+
+<br><br><br><br>
+
+CS50's Introduction to Artificial Intelligence with Python
+https://cs50.harvard.edu/ai/2024/
+ 
+CS50 business
+https://cs50.harvard.edu/business/2017/
+
+CS50: cybersecurity
+https://cs50.harvard.edu/cybersecurity/2023/
+
+CS50 games
+https://cs50.harvard.edu/games/2018/
+
+CS50's Introduction to Programming with Scratch
+https://cs50.harvard.edu/python/2022/
+
+CS50 sql
+https://cs50.harvard.edu/sql/2024/
+
+CS50's Understanding Technology
+https://cs50.harvard.edu/technology/2017/
+
+CS50 web
+https://cs50.harvard.edu/web/2020/
 
 
 
