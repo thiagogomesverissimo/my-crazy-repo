@@ -353,6 +353,23 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td></td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>D4</td>
+        <td>Orientada a Objetos</td>
+        <td>
+            <a href="https://www.coursera.org/learn/lab-poo-parte-1">
+                Laboratório de Programação Orientada a Objetos - Parte 1
+            </a>
+        </td>
+        <td>
+            <a href="https://www.coursera.org/learn/lab-poo-parte-2">
+                Laboratório de Programação Orientada a Objetos - Parte 2
+            </a>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
+    
 </table>
 
 ### Module E
@@ -491,6 +508,20 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Esberg</td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>F4</td>
+        <td>Métodos Numéricos</td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p">
+                Univesp
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Numerical Methods: Problems and Solutions. M. K. Jain</td>
+        <td>No</td>
+    </tr>
+    
 </table> 
 
 <br><br>
@@ -621,6 +652,5 @@ Cursos avulsos não feitos no coursera:
 - Front-End Web Development with React
 - Front-End Web UI Frameworks and Tools: Bootstrap 4
 - ART of the MOOC: Activism and Social Movements
-- Laboratório de Programação Orientada a Objetos - Parte 1
 - Introduction to Deep Learning
 - Building Arduino robots and devices
