@@ -373,7 +373,7 @@
     </tr>
     <tr>
         <td>D5</td>
-        <td>Orientada a Objetos</td>
+        <td>Orientação a Objetos</td>
         <td>
             <a href="https://www.coursera.org/learn/lab-poo-parte-1">
                 Laboratório de Programação Orientada a Objetos - Parte 1
@@ -494,7 +494,7 @@
     </tr>
     <tr>
         <td>E6</td>
-        <td>English: Writing<</td>
+        <td>English: Writing</td>
         <td>
             <a href="https://www.coursera.org/specializations/academic-english#courses">Academic English: Writing</a>
         </td>
@@ -557,7 +557,44 @@
         </td>
         <td></td>
         <td>No</td>
-    </tr>    
+    </tr>
+    <tr>
+        <td>F4</td>
+        <td>Data Science</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/data-science-python">
+                Applied Data Science with Python Specialization 
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr> 
+    <tr>
+        <td>F5</td>
+        <td>Parallel, Concurrent, and Distributed Programming</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/pcdp">
+                Coursera
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Distributed Systems 4th edition. Tanenbaum</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>F6</td>
+        <td>Advanced English</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/speaklistenenglish#courses">Advanced Academic Speaking and Listening</a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
 </table> 
 
 ### Module G
@@ -586,19 +623,6 @@
     </tr>
     <tr>
         <td>G2</td>
-        <td>Parallel, Concurrent, and Distributed Programming</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/pcdp">
-                Coursera
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Distributed Systems 4th edition. Tanenbaum</td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>G3</td>
         <td>Machine Learning</td>
         <td>
             <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">
@@ -613,20 +637,7 @@
         <td>Tibishirano. Statistical Learning</td>
         <td>No</td>
     </tr>
-    <tr>
-        <td>G4</td>
-        <td>Data Science</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/data-science-python">
-                Applied Data Science with Python Specialization 
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-     
+
 </table> 
 
 ### FALTA ARRUMAR
@@ -650,13 +661,6 @@ Cursos de harvard:
 - CS50 sql https://cs50.harvard.edu/sql/2024/
 - CS50's Understanding Technology - https://cs50.harvard.edu/technology/2017/
 - CS50 web https://cs50.harvard.edu/web/2020/
-
-
-Cursos de inglês:
-
-- <a href="https://www.coursera.org/specializations/speaklistenenglish#courses">Advanced Academic Speaking and Listening</a>
-- <a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write a Scientific Paper </a>
-- <a href="https://www.coursera.org/learn/introduction-to-academic-writing">Introduction to Academic Writing </a>
 
 Especializações avulsas não feitas no Cousera:
 
@@ -685,3 +689,5 @@ Cursos avulsos não feitos no coursera:
 - ART of the MOOC: Activism and Social Movements
 - Introduction to Deep Learning
 - Building Arduino robots and devices
+- <a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write a Scientific Paper </a>
+- <a href="https://www.coursera.org/learn/introduction-to-academic-writing">Introduction to Academic Writing </a>
