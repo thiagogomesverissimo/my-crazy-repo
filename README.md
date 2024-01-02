@@ -544,6 +544,19 @@
         </td>
         <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
         <td>No</td>
+    </tr>
+    <tr>
+        <td>F3</td>
+        <td>Performance</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">
+                mit 6.172 (2018)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
     </tr>    
 </table> 
 
