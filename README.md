@@ -185,9 +185,8 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
         <td>No</td>
     </tr>
-
     <tr>
-        <td>B6</td>
+        <td>B5</td>
         <td>TOEFL</td>
         <td>
             <a href="https://www.coursera.org/specializations/toefl-preparation#courses">
