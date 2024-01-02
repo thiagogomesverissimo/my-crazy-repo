@@ -85,6 +85,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>A5</td>
+        <td>Probabilidade</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/">
+                mit 6.041 (2010)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>A6</td>
         <td>Ielts</td>
         <td>
             <a href="https://www.coursera.org/specializations/ielts-preparation">
@@ -128,15 +141,15 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>B2</td>
-        <td>Probabilidade</td>
+        <td>Physics I: Classical Mechanics</td>
         <td>
-            <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/">
-                mit 6.041 (2010)
+            <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">
+                mit 8.01x
             </a>
         </td>
         <td>
         </td>
-        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td></td>
         <td>No</td>
     </tr>
     <tr>
@@ -180,6 +193,18 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td></td>
         <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>B6</td>
+        <td>TOEFL</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/toefl-preparation#courses">
+                TOEFL Coursera
+            </a>
+        </td>
+        <td></td>
+        <td>Oficial TOEFL Book</td>
         <td>No</td>
     </tr>
 </table> 
@@ -226,6 +251,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Sipser, Michael. Introduction to the Theory of Computation. 3rd ed.</td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>C6</td>
+        <td>Physics II: Electricity and Magnetism</td>
+        <td>
+            <a href="ttps://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">
+                mit 8.02x
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
 </table> 
 
 <br><br>
@@ -253,6 +291,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             Aulas Yoshiko
         </td>
         <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>D2</td>
+        <td>Physics III: Vibrations and Waves</td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe">
+                mit 8.03x
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
         <td>No</td>
     </tr>
 </table>
@@ -338,45 +389,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
         </td>
         <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td>Physics I: Classical Mechanics</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">
-                mit 8.01x
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td>Physics II: Electricity and Magnetism</td>
-        <td>
-            <a href="ttps://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">
-                mit 8.02x
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>XXX</td>
-        <td>Physics III: Vibrations and Waves</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe">
-                mit 8.03x
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
         <td>No</td>
     </tr>
     <tr>
@@ -1120,7 +1132,7 @@ Cursos de inglês:
 - <a href="https://www.coursera.org/specializations/speaklistenenglish#courses">Advanced Academic Speaking and Listening</a>
 - <a href="https://www.coursera.org/specializations/academic-english#courses">Academic English: Writing</a>
 - <a href="https://www.coursera.org/specializations/intermediate-grammar#courses">Intermediate Grammar</a>
-- <a href="https://www.coursera.org/specializations/toefl-preparation#courses">TOEFL Preparation</a>
+- 
 
 - <a href="https://www.coursera.org/learn/sciwrite/home/welcome">Writing in the Sciences</a>
 - <a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write a Scientific Paper </a>
