@@ -1,6 +1,3 @@
-Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
-
-
 ### Module A
 
 <table style="width:100%">
@@ -109,8 +106,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
 </table> 
 
-<br><br>
-
 ### Module B
 
 <table style="width:100%">
@@ -212,8 +207,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
 </table> 
 
-<br><br>
-
 ### Module C
 
 <table style="width:100%">
@@ -311,8 +304,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>No</td>
     </tr>
 </table> 
-
-<br><br>
 
 ### Module D
 
@@ -514,8 +505,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
 </table> 
 
-<br><br>
-
 ### Module F
 
 <table style="width:100%">
@@ -555,13 +544,8 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
         <td>No</td>
-    </tr>
-
-
-    
+    </tr>    
 </table> 
-
-<br><br>
 
 ### Module G
 
