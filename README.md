@@ -152,7 +152,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
         </td>
-        <td></td>
+        <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
         <td>No</td>
     </tr>
     <tr>
@@ -242,7 +242,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>No</td>
     </tr>
     <tr>
-        <td>C3</td>
+        <td>C2</td>
         <td>Physics II: Electricity and Magnetism</td>
         <td>
             <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">
@@ -251,11 +251,11 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
         </td>
-        <td></td>
+        <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
         <td>No</td>
     </tr>
     <tr>
-        <td>C4</td>
+        <td>C3</td>
         <td>Sistemas Operacionais</td>
         <td>
             <a href="http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start">
@@ -268,7 +268,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>No</td>
     </tr>
     <tr>
-        <td>C5</td>
+        <td>C4</td>
         <td>Cálculo 2</td>
         <td>
             <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">
@@ -280,7 +280,34 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td></td>
         <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
         <td>No</td>
-    </tr>    
+    </tr> 
+    <tr>
+        <td>C5</td>
+        <td>Graph Theory</td>
+        <td>
+            <a href="https://canvas.dartmouth.edu/courses/39351">
+                Dartmouth (2020)
+            </a>
+        </td>
+        <td>
+            Aulas Yoshiko
+        </td>
+        <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>C6</td>
+        <td>Writing in the Sciences</td>
+        <td>
+            <a href="https://www.coursera.org/learn/sciwrite/home/welcome">
+                coursera
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
 </table> 
 
 <br><br>
@@ -298,20 +325,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>D1</td>
-        <td>Graph Theory</td>
-        <td>
-            <a href="https://canvas.dartmouth.edu/courses/39351">
-                Dartmouth (2020)
-            </a>
-        </td>
-        <td>
-            Aulas Yoshiko
-        </td>
-        <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>D2</td>
         <td>Physics III: Vibrations and Waves</td>
         <td>
             <a href="https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe">
@@ -320,11 +333,11 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
         </td>
-        <td></td>
+        <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
         <td>No</td>
     </tr>
     <tr>
-        <td>D3</td>
+        <td>D2</td>
         <td>Software Engineering</td>
         <td>
             <a href="https://www.coursera.org/specializations/software-engineering">
@@ -334,6 +347,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>
         </td>
         <td>Software Engineering: Sommerville, Ian</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>D3</td>
+        <td>Algorithms Analysis</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">
+                mit 6-046j (2015)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
         <td>No</td>
     </tr>
     <tr>
@@ -353,7 +379,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>No</td>
     </tr>
     <tr>
-        <td>D4</td>
+        <td>D5</td>
         <td>Orientada a Objetos</td>
         <td>
             <a href="https://www.coursera.org/learn/lab-poo-parte-1">
@@ -368,7 +394,17 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td></td>
         <td>No</td>
     </tr>
-    
+    <tr>
+        <td>D6</td>
+        <td>Grammar English</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/intermediate-grammar#courses">Intermediate Grammar</a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>    
 </table>
 
 ### Module E
@@ -439,15 +475,39 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>E4</td>
-        <td>Algorithms Analysis</td>
+        <td>Quantum Physics</td>
         <td>
-            <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">
-                mit 6-046j (2015)
+            <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013">
+                mit 8.04
             </a>
         </td>
         <td>
         </td>
-        <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
+        <td>Eisberg</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>E5</td>
+        <td>Métodos Numéricos</td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p">
+                Univesp
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Numerical Methods: Problems and Solutions. M. K. Jain</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>E6</td>
+        <td>English: Writing<</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/academic-english#courses">Academic English: Writing</a>
+        </td>
+        <td>
+        </td>
+        <td></td>
         <td>No</td>
     </tr>
 </table> 
@@ -494,32 +554,8 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
         <td>No</td>
     </tr>
-    <tr>
-        <td>F3</td>
-        <td>Quantum Physics</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013">
-                mit 8.04
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Esberg</td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>F4</td>
-        <td>Métodos Numéricos</td>
-        <td>
-            <a href="https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p">
-                Univesp
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Numerical Methods: Problems and Solutions. M. K. Jain</td>
-        <td>No</td>
-    </tr>
+
+
     
 </table> 
 
@@ -620,9 +656,6 @@ Cursos de harvard:
 Cursos de inglês:
 
 - <a href="https://www.coursera.org/specializations/speaklistenenglish#courses">Advanced Academic Speaking and Listening</a>
-- <a href="https://www.coursera.org/specializations/academic-english#courses">Academic English: Writing</a>
-- <a href="https://www.coursera.org/specializations/intermediate-grammar#courses">Intermediate Grammar</a>
-- <a href="https://www.coursera.org/learn/sciwrite/home/welcome">Writing in the Sciences</a>
 - <a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write a Scientific Paper </a>
 - <a href="https://www.coursera.org/learn/introduction-to-academic-writing">Introduction to Academic Writing </a>
 
