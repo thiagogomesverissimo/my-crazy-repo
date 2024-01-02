@@ -187,6 +187,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>B5</td>
+        <td>Theory of Computation</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">
+                mit 18.404J (2020)
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Sipser, Michael. Introduction to the Theory of Computation. 3rd ed.</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>B6</td>
         <td>TOEFL</td>
         <td>
             <a href="https://www.coursera.org/specializations/toefl-preparation#courses">
@@ -226,19 +239,6 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
         </td>
         <td>Probability and Statistics for Engineers and Scientists. Ronald E. Walpole</td>
-        <td>No</td>
-    </tr>
-    <tr>
-        <td>C2</td>
-        <td>Theory of Computation</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">
-                mit 18.404J (2020)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Sipser, Michael. Introduction to the Theory of Computation. 3rd ed.</td>
         <td>No</td>
     </tr>
     <tr>
