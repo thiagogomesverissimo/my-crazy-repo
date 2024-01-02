@@ -277,14 +277,22 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
             <a href="https://www.ic.unicamp.br/~rodolfo/mc404/">
                 Infos
-            </a>            
-        </td>
-        <td>
+            </a>   
             <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ">
                 Unicamp (parte 2)
+            </a>         
+        </td>
+        <td>
+            <a href="https://eaulas.usp.br/portal/video.action?idItem=29836">
+                MAC0344 - IME USP
             </a>
         </td>
-        <td>Edson Borin. An Introduction to Assembly Programming with RISC-V</td>
+        <td>
+            <ul>
+                <li>Edson Borin. An Introduction to Assembly Programming with RISC-V</li>
+                <li>Structured Computer Organization. Tanenbaum</li>
+            </ul>
+        </td>
         <td>No</td>
     </tr>
 </table> 
