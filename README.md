@@ -166,7 +166,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         </td>
         <td>
         </td>
-        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
+        <td>Linear Algebra. Gilbert Strang</td>
         <td>No</td>
     </tr>
     <tr>
