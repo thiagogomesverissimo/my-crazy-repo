@@ -272,12 +272,14 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>E1</td>
         <td>Arquitetura de Computadores</td>
         <td>
+            <a href="https://www.ic.unicamp.br/~rodolfo/mc404/">
+                Unicamp Infos
+            </a>  
+            <br><br>
             <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6">
                 Unicamp (parte 1)
             </a>
-            <a href="https://www.ic.unicamp.br/~rodolfo/mc404/">
-                Infos
-            </a>   
+            <br><br>
             <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ">
                 Unicamp (parte 2)
             </a>         
