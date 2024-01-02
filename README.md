@@ -71,16 +71,15 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>A4</td>
-        <td>Cálculo 1</td>
+        <td>Linear Algebra</td>
         <td>
-            <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">
-                mit 18.01 (2006)
+            <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010">
+                mit 18.06 (2010)
             </a>
-            <br><br>
-            <a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation</a>
         </td>
-        <td></td>
-        <td>Simmons, George F. Calculus with Analytic Geometry. 2nd ed. </td>
+        <td>
+        </td>
+        <td>Linear Algebra. Gilbert Strang</td>
         <td>No</td>
     </tr>
     <tr>
@@ -158,15 +157,16 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
     </tr>
     <tr>
         <td>B3</td>
-        <td>Linear Algebra</td>
+        <td>Cálculo 1</td>
         <td>
-            <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010">
-                mit 18.06 (2010)
+            <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">
+                mit 18.01 (2006)
             </a>
+            <br><br>
+            <a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation</a>
         </td>
-        <td>
-        </td>
-        <td>Linear Algebra. Gilbert Strang</td>
+        <td></td>
+        <td>Simmons, George F. Calculus with Analytic Geometry. 2nd ed. </td>
         <td>No</td>
     </tr>
     <tr>
@@ -185,20 +185,7 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
         <td>No</td>
     </tr>
-    <tr>
-        <td>B5</td>
-        <td>Cálculo 2</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">
-                mit 18.02 (2007)
-            </a>
-            <br><br>
-            <a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation</a>
-        </td>
-        <td></td>
-        <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
-        <td>No</td>
-    </tr>
+
     <tr>
         <td>B6</td>
         <td>TOEFL</td>
@@ -281,7 +268,20 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019.</td>
         <td>No</td>
     </tr>
-    
+    <tr>
+        <td>C5</td>
+        <td>Cálculo 2</td>
+        <td>
+            <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">
+                mit 18.02 (2007)
+            </a>
+            <br><br>
+            <a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation</a>
+        </td>
+        <td></td>
+        <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
+        <td>No</td>
+    </tr>    
 </table> 
 
 <br><br>
