@@ -310,6 +310,32 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td></td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>D3</td>
+        <td>Software Engineering</td>
+        <td>
+            <a href="https://www.coursera.org/specializations/software-engineering">
+                coursera
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Software Engineering: Sommerville, Ian</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>D4</td>
+        <td>Computation Structures</td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu">
+                MIT 6.004 
+            </a>
+        </td>
+        <td>
+        </td>
+        <td></td>
+        <td>No</td>
+    </tr>
 </table>
 
 ### Module E
@@ -350,6 +376,19 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
                 <li>Structured Computer Organization. Tanenbaum</li>
             </ul>
         </td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>E2</td>
+        <td>Database</td>
+        <td>
+            <a href="https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm">
+                Stanford by Jennifer Widom
+            </a>
+        </td>
+        <td>
+        </td>
+        <td>Database Systems: The Complete Book. <br> Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom</td>
         <td>No</td>
     </tr>
 </table> 
@@ -1147,7 +1186,6 @@ Especializações Cousera:
 - <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
 - <a href="https://www.coursera.org/specializations/data-science-python#courses">Applied Data Science with Python</a>
 - Web Design for Everybody: Basics of Web Development & Coding Specialization
-- Software Engineering Specialization
 - Introduction to Discrete Mathematics for Computer Science Specialization
 - Applied Data Science with Python Specialization 
 - Parallel, Concurrent, and Distributed Programming in Java Specialization
