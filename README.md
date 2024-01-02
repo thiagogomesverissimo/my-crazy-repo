@@ -290,7 +290,9 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
             </a>
         </td>
         <td>
-            Aulas Yoshiko
+            Aulas Yoshiko ou
+            <br><br>
+            <a href="https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX">youtube</a>
         </td>
         <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
         <td>No</td>
