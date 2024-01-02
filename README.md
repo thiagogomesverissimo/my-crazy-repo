@@ -127,8 +127,12 @@ Ideia copiada de: https://github.com/Universidade-Livre/ciencia-da-computacao
         <td>B1</td>
         <td>Circuitos</td>
         <td>
-            <a href="https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/">
-                mit 6.002 (2007)
+            <a href="https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/">
+                mit 6.01SC (2011)
+            </a>
+            <br><br>
+            <a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PLpXfHEl2fzl4UTLOus3hJrAPIESr8cW8C">
+                youtube
             </a>
         </td>
         <td>
@@ -1154,6 +1158,7 @@ Especializações Cousera:
 - GIS, Mapping, and Spatial Analysis Specialization
 - Web Applications for Everybody Specialization
 - Data Structures and Algorithms Specialization
+- Introduction to Logic and Critical Thinking Specialization
 
 Cursos avulsos:
 
@@ -1164,7 +1169,6 @@ Cursos do coursera que não vou fazer
 - Server-side Development with NodeJS, Express and MongoDB
 - Processamento Neural de Linguagem Natural em Português I
 - The Modern World, Part One: Global History from 1760 to 1910
-- Think Again I: How to Understand Arguments
 - Historia del Arte: Del Arte Prehistórico al Renacimiento
 - Getting Started With Music Theory
 - Front-End Web Development with React
