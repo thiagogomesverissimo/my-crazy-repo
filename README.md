@@ -1,5 +1,59 @@
 ### Module A
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Time</th>
+    <th class="tg-0pky">Seg</th>
+    <th class="tg-0pky">Ter</th>
+    <th class="tg-0pky">Qua</th>
+    <th class="tg-0pky">Qui</th>
+    <th class="tg-0pky">Sex</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"> OCW</td>
+    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/"> 6-0001-2016 </a><br> <a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/"> 6.0002-2016 </a><br></td>
+    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"> 18.404J-Automata </a></td>
+    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">18.06 LA</a></td>
+    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/"> 6.042J-MathsCS </a></td>
+    <td class="tg-0pky"> <a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> MOOC</td>
+    <td class="tg-0pky"> <a href="https://www.coursera.org/specializations/social-science">Cousera: Métodos de pesquisa</a></td>
+    <td class="tg-0pky"> <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a></td>
+    <td class="tg-0pky"> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
+    <td class="tg-0pky"> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
+    <td class="tg-0pky"> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> Work</td>
+    <td class="tg-0pky"> Livro Moodle Developer's Guide</td>
+    <td class="tg-0pky"> Livro Ielts</td>
+    <td class="tg-0pky"> Livro Drupal</td>
+    <td class="tg-0pky"> Livro Machine Learning web</td>
+    <td class="tg-0pky"> Livro de ML Gerón</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> Home</td>
+    <td class="tg-0pky"> Livro: Algoritmos</td>
+    <td class="tg-0pky"> Livro: Sipser</td>
+    <td class="tg-0pky"> Algebra Linear</td>
+    <td class="tg-0pky"> Livro: Eric Lehman</td>
+    <td class="tg-0pky"> Tibishirano</td>
+  </tr>
+</tbody>
+</table>
+
+
 <table style="width:100%">
     <tr>
         <th>My code</th>
