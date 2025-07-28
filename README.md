@@ -1,58 +1,142 @@
-### Module A
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
+### Corpo
+<table>
+<thead>
   <tr>
-    <th class="tg-0pky">Time</th>
-    <th class="tg-0pky">Seg</th>
-    <th class="tg-0pky">Ter</th>
-    <th class="tg-0pky">Qua</th>
-    <th class="tg-0pky">Qui</th>
-    <th class="tg-0pky">Sex</th>
-  </tr></thead>
+    <th>Time</th>
+    <th>Seg</th>
+    <th>Ter</th>
+    <th>Qua</th>
+    <th>Qui</th>
+    <th>Sex</th>
+    <th>Sáb</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"> OCW</td>
-    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/"> 6-0001-2016 </a><br> <a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/"> 6.0002-2016 </a><br></td>
-    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"> 18.404J-Automata </a></td>
-    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">18.06 LA</a></td>
-    <td class="tg-0pky"> <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/"> 6.042J-MathsCS </a></td>
-    <td class="tg-0pky"> <a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a><br></td>
+    <td> Cardio</td>
+    <td> <a href="https://youtu.be/FeR-4_Opt-g">Hiit 1</a></td>
+    <td> <a href="https://youtu.be/qGZjamFot98">Hiit 2</a></td>
+    <td> <a href="https://youtu.be/nbP7m0S0Ato">Hiit 3</a></td>
+    <td> <a href="https://youtu.be/FeR-4_Opt-g">Hiit 1</a></td>
+    <td> <a href="https://youtu.be/qGZjamFot98">Hiit 2</a></td>
+    <td> <a href="https://youtu.be/nbP7m0S0Ato">Hiit 3</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"> MOOC</td>
-    <td class="tg-0pky"> <a href="https://www.coursera.org/specializations/social-science">Cousera: Métodos de pesquisa</a></td>
-    <td class="tg-0pky"> <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a></td>
-    <td class="tg-0pky"> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
-    <td class="tg-0pky"> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
-    <td class="tg-0pky"> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
+    <td> Força</td>
+    <td> <a href="https://youtu.be/WxAkMuXERBE">Força 1</a></td>
+    <td> <a href="https://youtu.be/gTikkL0s-jM">Força 2</a></td>
+    <td> <a href="https://youtu.be/gUpwkTsvAMs">Força 3</a></td>
+    <td> <a href="https://youtu.be/WxAkMuXERBE">Força 1</a></td>
+    <td> <a href="https://youtu.be/gTikkL0s-jM">Força 2</a></td>
+    <td> <a href="https://youtu.be/gUpwkTsvAMs">Força 3</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"> Work</td>
-    <td class="tg-0pky"> Livro Moodle Developer's Guide</td>
-    <td class="tg-0pky"> Livro Ielts</td>
-    <td class="tg-0pky"> Livro Drupal</td>
-    <td class="tg-0pky"> Livro Machine Learning web</td>
-    <td class="tg-0pky"> Livro de ML Gerón</td>
+    <td> Fit 1</td>
+    <td> <a href="https://youtu.be/-4GubVYyfZU">Cavalinho</a></td>
+    <td> <a href="https://youtu.be/pKA5JOYEDwQ">Luz do luar</a></td>
+    <td> <a href="https://youtu.be/VwGEitAHxNQ">Mil vezes</a></td>
+    <td> <a href="https://youtu.be/nR60om9vpeU">Ram tchum</a></td>
+    <td> <a href="https://www.youtube.com/watch?v=_4ZJlCIZo18">Joga pra Lua</a></td>
+    <td> <a href="https://youtu.be/gnscLD2M2TY">Língua doce</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"> Home</td>
-    <td class="tg-0pky"> Livro: Algoritmos</td>
-    <td class="tg-0pky"> Livro: Sipser</td>
-    <td class="tg-0pky"> Algebra Linear</td>
-    <td class="tg-0pky"> Livro: Eric Lehman</td>
-    <td class="tg-0pky"> Tibishirano</td>
+    <td> Fit 2</td>
+    <td> <a href="https://youtu.be/Fws5yCLPC5U">Tá Ok</a></td>
+    <td> <a href="https://youtu.be/YzTeiDvtm-M">Parabéns</a></td>
+    <td> <a href="https://youtu.be/9L2Qwkp-45Y">Dançarina</a></td>
+    <td> <a href="https://youtu.be/x8k5-lcZrbc">São amores</a></td>
+    <td> <a href="https://youtu.be/E3rORac3U40">A queda</a></td>
+    <td> <a href="https://youtu.be/bNHJHGbmCzw">Galopa</a></td>
   </tr>
 </tbody>
 </table>
 
+### Module 1
+
+<table>
+    <thead>
+    <tr>
+        <th>Time</th>
+        <th>Seg</th>
+        <th>Ter</th>
+        <th>Qua</th>
+        <th>Qui</th>
+        <th>Sex</th>
+    </tr>
+    </thead>
+<tbody>
+  <tr>
+    <td><b>OCW</b></td>
+    <td>
+        Intro cs:
+        <ul>
+            <li><a href="https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/">2022</a></li>
+            <li><a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016">2016-1</a></li>
+            <li><a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016">2016-2</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">2011</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL4C4720A6F225E074">2008</a></li>
+        </ul>
+    </td>
+    <td> 
+        <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"> 18.404J-Automata </a>
+    </td>
+    <td> 
+        <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">18.06 LA</a>
+    </td>
+    <td>
+        Math CS:
+        <ul>
+            <li><a href="https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/">2024</a></li>
+            <li><a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">2010</a></li>
+        </ul>
+    </td>
+    <td> 
+        <ul>
+            <li><a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">Cálculo 1</a>-<a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation 1</a></li>
+            <li><a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">Cálculo 2</a>
+            <a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation 2</a>
+        </ul>
+                
+  </tr>
+
+  <tr>
+    <td><b>MOOC</b></td>
+    <td><a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a>
+     <a href="https://www.coursera.org/specializations/social-science">Cousera: Métodos de pesquisa</a></td>
+    <td> <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a></td>
+    <td> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
+    <td> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
+    <td> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
+  </tr>
+  <tr>
+    <td><b>Course Work</b></td>
+    <td> Livro Moodle Developer's Guide</td>
+    <td> Livro Ielts</td>
+    <td> Livro Drupal</td>
+    <td> Livro Machine Learning web</td>
+    <td> Livro de ML Gerón</td>
+  </tr>
+  <tr>
+    <td><b>Book Work</b></td>
+    <td> Livro Moodle Developer's Guide</td>
+    <td> Livro Ielts</td>
+    <td> Livro Drupal</td>
+    <td> Livro Machine Learning web</td>
+    <td> Livro de ML Gerón</td>
+  </tr>
+  <tr>
+    <td><b>Book Home</b></td>
+    <td> Livro: Algoritmos</td>
+    <td> Livro: Sipser</td>
+    <td> Algebra Linear</td>
+    <td> Livro: Eric Lehman</td>
+    <td> Tibishirano</td>
+  </tr>
+</tbody>
+</table>
+
+
+### Module A
 
 <table style="width:100%">
     <tr>
@@ -61,7 +145,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>A1</td>
@@ -89,7 +172,6 @@
             <br><b>John V. Guttag</b>
             <br> Second Edition
         </td>
-        <td>No</td>
     </tr>
     <tr>
         <td>A2</td>
@@ -106,19 +188,17 @@
                 <li>How to Prove It: A Structured Approach. Daniel J. Velleman. 2nd Edition</li>
             </ul>
         </td>
-        <td>No</td>
     </tr>
     <tr>
         <td>A3</td>
         <td>Introduction to Computer Science</td>
         <td>
-            <a href="https://cs50.harvard.edu/x/2024/">
-                CS50x (2024)
+            <a href="https://cs50.harvard.edu/x">
+                CS50x
             </a>
         </td>
         <td></td>
         <td></td>
-        <td>No</td>
     </tr>
     <tr>
         <td>A4</td>
@@ -131,7 +211,6 @@
         <td>
         </td>
         <td>Linear Algebra. Gilbert Strang</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>A5</td>
@@ -144,7 +223,6 @@
         <td>
         </td>
         <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>A6</td>
@@ -156,7 +234,6 @@
         </td>
         <td></td>
         <td>Oficial Ielts Book</td>
-        <td>No</td>
     </tr>
 </table> 
 
@@ -169,7 +246,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>B1</td>
@@ -189,7 +265,6 @@
             </a>
         </td>
         <td>Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>B2</td>
@@ -202,21 +277,14 @@
         <td>
         </td>
         <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>B3</td>
-        <td>Cálculo 1</td>
+        <td></td>
         <td>
-            <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">
-                mit 18.01 (2006)
-            </a>
-            <br><br>
-            <a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation</a>
         </td>
         <td></td>
-        <td>Simmons, George F. Calculus with Analytic Geometry. 2nd ed. </td>
-        <td>No</td>
+        <td></td>
     </tr>
     <tr>
         <td>B4</td>
@@ -225,6 +293,10 @@
             <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">
                 mit 6.006 (2011)
             </a>
+            <br>
+            <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">
+                6.00-2011
+            </a>
         </td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">
@@ -232,7 +304,6 @@
             </a>
         </td>
         <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>B5</td>
@@ -245,7 +316,6 @@
         <td>
         </td>
         <td>Sipser, Michael. Introduction to the Theory of Computation. 3rd ed.</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>B6</td>
@@ -257,7 +327,6 @@
         </td>
         <td></td>
         <td>Oficial TOEFL Book</td>
-        <td>No</td>
     </tr>
 </table> 
 
@@ -270,7 +339,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>C1</td>
@@ -286,7 +354,6 @@
             </a>
         </td>
         <td>Probability and Statistics for Engineers and Scientists. Ronald E. Walpole</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>C2</td>
@@ -299,7 +366,6 @@
         <td>
         </td>
         <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>C3</td>
@@ -312,21 +378,14 @@
         <td>
         </td>
         <td>MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019.</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>C4</td>
-        <td>Cálculo 2</td>
+        <td></td>
         <td>
-            <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">
-                mit 18.02 (2007)
-            </a>
-            <br><br>
-            <a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation</a>
         </td>
         <td></td>
         <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
-        <td>No</td>
     </tr> 
     <tr>
         <td>C5</td>
@@ -342,7 +401,6 @@
             <a href="https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX">youtube</a>
         </td>
         <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>C6</td>
@@ -355,7 +413,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
 </table> 
 
@@ -368,7 +425,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>D1</td>
@@ -381,7 +437,6 @@
         <td>
         </td>
         <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>D2</td>
@@ -394,20 +449,18 @@
         <td>
         </td>
         <td>Software Engineering: Sommerville, Ian</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>D3</td>
         <td>Algorithms Analysis</td>
         <td>
             <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">
-                mit 6-046j (2015)
+                mit 6.046J-Analysis (2015)
             </a>
         </td>
         <td>
         </td>
         <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>D4</td>
@@ -423,7 +476,6 @@
             </a>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
     <tr>
         <td>D5</td>
@@ -439,7 +491,6 @@
             </a>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
     <tr>
         <td>D6</td>
@@ -450,7 +501,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr>    
 </table>
 
@@ -463,7 +513,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>E1</td>
@@ -492,7 +541,6 @@
                 <li>Structured Computer Organization. Tanenbaum</li>
             </ul>
         </td>
-        <td>No</td>
     </tr>
     <tr>
         <td>E2</td>
@@ -505,7 +553,6 @@
         <td>
         </td>
         <td>Database Systems: The Complete Book. <br> Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>E3</td>
@@ -518,7 +565,6 @@
         <td>
         </td>
         <td>Computer Networks (5th Edition) by Tanenbaum</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>E4</td>
@@ -531,7 +577,6 @@
         <td>
         </td>
         <td>Eisberg</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>E5</td>
@@ -544,7 +589,6 @@
         <td>
         </td>
         <td>Numerical Methods: Problems and Solutions. M. K. Jain</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>E6</td>
@@ -555,7 +599,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
 </table> 
 
@@ -568,7 +611,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>F1</td>
@@ -581,7 +623,6 @@
         <td>
         </td>
         <td>Aho, A.V., Sethi, R. e Ullman, J.D. Compiladores – Princípios, Técnicas e Ferramentas.</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>F2</td>
@@ -597,7 +638,6 @@
             </a>
         </td>
         <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>F3</td>
@@ -610,7 +650,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
     <tr>
         <td>F4</td>
@@ -623,7 +662,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr> 
     <tr>
         <td>F5</td>
@@ -636,7 +674,6 @@
         <td>
         </td>
         <td>Distributed Systems 4th edition. Tanenbaum</td>
-        <td>No</td>
     </tr>
     <tr>
         <td>F6</td>
@@ -647,7 +684,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
 </table> 
 
@@ -660,7 +696,6 @@
         <th>Course 1</th>
         <th>Course 2</th>
         <th>Books</th>
-        <th>completed?</th>
     </tr>
     <tr>
         <td>G1</td>
@@ -673,7 +708,6 @@
         <td>
         </td>
         <td></td>
-        <td>No</td>
     </tr>
     <tr>
         <td>G2</td>
@@ -689,7 +723,6 @@
             </a>
         </td>
         <td>Tibishirano. Statistical Learning</td>
-        <td>No</td>
     </tr>
 
 </table> 
@@ -698,6 +731,7 @@
 
 Cursos avulsos:
 
+- Introduction to R and Geographic Information Systems (GIS) https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/
 - <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Big Data and Education</a>
 - <a href="#">Practical Learning Analytics</a>
 - <a href="https://www.youtube.com/watch?v=W1S-HSakPTM&list=PLFze15KrfxbHYP_YIxwgfVYDTo_bQgqRC">UC Berkeley CS188 Intro to AI (2014) - livro Artificial Intelligence: A Modern Approach, 3rd ed. by Stuart Russell </a>
@@ -716,14 +750,14 @@ Cursos de harvard:
 - CS50's Understanding Technology - https://cs50.harvard.edu/technology/2017/
 - CS50 web https://cs50.harvard.edu/web/2020/
 
-Especializações avulsas não feitas no Cousera:
+Cursos avulsos não feitas no Cousera:
 
 - <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
 - <a href="https://www.coursera.org/specializations/data-science-python#courses">Applied Data Science with Python</a>
 - Introduction to Discrete Mathematics for Computer Science Specialization
 - Big Data Specialization
 - Database systems Specialization
-- Mathematics for Machine Learning Specialization
+- Mathematics for Machine Learning Specialization - 
 - Introductory C Programming Specialization
 - GIS, Mapping, and Spatial Analysis Specialization
 - Web Applications for Everybody Specialization
