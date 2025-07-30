@@ -114,47 +114,41 @@
   </tr>
   <tr>
     <td><b>Work Courses</b></td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a>: CCNAv7: Introdução às Redes</td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a>CCNAv7: Switching, Routing e Wireless Essentials</td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a>IPv6</td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a>HCIA Datacom [Huawei]</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br> CCNAv7: Introdução às Redes</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>CCNAv7: Switching, Routing e Wireless Essentials</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>IPv6</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>HCIA Datacom [Huawei]</td>
     <td><a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a></td>
   </tr>
   <tr>
     <td><b>Book Work</b></td>
-    <td>Moodle Developer's Guide. Ian Wild.</td>
-    <td>CCNA. Todd Lammle.</td>
-    <td>Drupal Module Development. Daniel Sipos.</td>
-    <td>Machine Learning for the Web.  Andrea Isoni.</td>
-    <td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. Aurélien Géron. </td>
+    <td>Moodle Developer's Guide. <u>Ian Wild.</u></td>
+    <td>CCNA. <u>Todd Lammle.</u></td>
+    <td>Drupal Module Development. <u>Daniel Sipos.</u></td>
+    <td>Machine Learning for the Web. <u>Andrea Isoni.</u></td>
+    <td>Hands-On Machine Learning.<u>Aurélien Géron.</u> </td>
   </tr>
   <tr>
     <td><b>Book Home</b></td>
     <td>
-      <ol>
-        <li>Introduction to Computation and Programming Using Python</li>
-      </ol>
+     Introduction to Computation. <u>John V. Guttag.</u><br><br>
+     Introduction to Algorithms. <u>Cormen</u>
     </td>
     <td>
-      <ol>
-        <li>Sipser, Michael. Introduction to the Theory of Computation</li>
-      </ol>
+      Introduction to the Theory of Computation. <u>Sipser, Michael.</u><br><br>
+      Introduction to Classical and Quantum Computing. <u>Thomas G. Wong</u>
     </td>
     <td>
-      <ol>
-        <li>Linear Algebra. Gilbert Strang</li>
-      </ol>
+      Linear Algebra. <u>Gilbert Strang.</u><br><br>
+      Calculus With Analytic Geometry <u>Simmons, George</u>
     </td>
     <td>
-      <ol>
-        <li>Mathematics for Computer Science. Eric Lehman</li>
-      </ol>
+      Discrete Mathematics and Its Applications. <u>Kenneth</u><br><br>
+      Mathematics for Computer Science. <u>Eric Lehman.</u>
     </td>
     <td>
-      <ol>
-        <li>Tibishirano</li>
-        <li>Mathematical Structures for Computer Science. Judith Gersting. 7th</li>
-      </ol>
+      1. An Introduction to Statistical Learning. <u>Tibishirano</u><br><br>
+      2. Mathematical Structures for Computer Science. <u>Judith Gersting. 7th.</u>
     </td>
   </tr>
 </tbody>
