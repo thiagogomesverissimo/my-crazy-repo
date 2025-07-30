@@ -1,3 +1,9 @@
+### Editando localmente
+
+    sudo apt install npm
+    sudo npm install -g md-fileserver
+    mdstart README.md
+
 ### Corpo
 <table>
 <thead>
@@ -51,8 +57,6 @@
 </tbody>
 </table>
 
-### Module 1
-
 <table>
     <thead>
     <tr>
@@ -102,657 +106,166 @@
   <tr>
     <td><b>MOOC</b></td>
     <td><a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a>
-     <a href="https://www.coursera.org/specializations/social-science">Cousera: Métodos de pesquisa</a></td>
+     </td>
     <td> <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a></td>
     <td> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
     <td> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
     <td> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
   </tr>
   <tr>
-    <td><b>Course Work</b></td>
-    <td> Livro Moodle Developer's Guide</td>
-    <td> Livro Ielts</td>
-    <td> Livro Drupal</td>
-    <td> Livro Machine Learning web</td>
-    <td> Livro de ML Gerón</td>
+    <td><b>Work Courses</b></td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a>: CCNAv7: Introdução às Redes</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a>CCNAv7: Switching, Routing e Wireless Essentials</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a>IPv6</td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a>HCIA Datacom [Huawei]</td>
+    <td><a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a></td>
   </tr>
   <tr>
     <td><b>Book Work</b></td>
-    <td> Livro Moodle Developer's Guide</td>
-    <td> Livro Ielts</td>
-    <td> Livro Drupal</td>
-    <td> Livro Machine Learning web</td>
-    <td> Livro de ML Gerón</td>
+    <td>Moodle Developer's Guide. Ian Wild.</td>
+    <td>CCNA. Todd Lammle.</td>
+    <td>Drupal Module Development. Daniel Sipos.</td>
+    <td>Machine Learning for the Web.  Andrea Isoni.</td>
+    <td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. Aurélien Géron. </td>
   </tr>
   <tr>
     <td><b>Book Home</b></td>
-    <td> Livro: Algoritmos</td>
-    <td> Livro: Sipser</td>
-    <td> Algebra Linear</td>
-    <td> Livro: Eric Lehman</td>
-    <td> Tibishirano</td>
+    <td>
+      <ol>
+        <li>Introduction to Computation and Programming Using Python</li>
+      </ol>
+    </td>
+    <td>
+      <ol>
+        <li>Sipser, Michael. Introduction to the Theory of Computation</li>
+      </ol>
+    </td>
+    <td>
+      <ol>
+        <li>Linear Algebra. Gilbert Strang</li>
+      </ol>
+    </td>
+    <td>
+      <ol>
+        <li>Mathematics for Computer Science. Eric Lehman</li>
+      </ol>
+    </td>
+    <td>
+      <ol>
+        <li>Tibishirano</li>
+        <li>Mathematical Structures for Computer Science. Judith Gersting. 7th</li>
+      </ol>
+    </td>
   </tr>
 </tbody>
 </table>
 
+### Cursos OCW:
 
-### Module A
+- Algorithms: <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">6.006 (2011)</a> - <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">6.006 (2020)</a>
+- Algorithms Analysis <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">6.046J (2015)</a>
+- Circuitos: <a href="https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/"> 6.01SC (2011)</a> - playlist das aulas no <a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PLpXfHEl2fzl4UTLOus3hJrAPIESr8cW8C"> youtube</a> - livro: Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits
+- Probabilidade: <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/"> 6.041 (2010)</a> - O livro já está impresso: <i>Introduction to Probability.</i> Bertsekas, Dimitri, and John Tsitsiklis. 
+- Physics I - Classical Mechanics: <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">8.01x</a>. Livro do D. C. Giancoli
+- Physics II - Electricity and Magnetism: <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">8.02x</a>
+- Physics III: Vibrations and Waves <a href="https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe">8.03x</a>
+- Physics IV: Quantum Physics <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013">8.04</a>. O curso segue o livro do Eisberg.
+- Estatística: <a href="https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/">18.650 (2016)</a>
+- Artificial Intelligence: <a href="https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/"> 6.034 (2010)</a>
+- Performance: <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">6.172 (2018)</a>
+- Computation Structures: <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"> 6.004 (2017)</a> - playlist das aulas <a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu"> youtube </a>
 
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>A1</td>
-        <td>Introduction in Programming</td>
-        <td>
-            <a href="https://ocw.oouagoiwoye.edu.ng/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/resource-index/">
-                mit 6.0x (2011)
-            </a>
-            <br><br>
-            <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">
-                playlist das aulas no youtube
-            </a>
-        </td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">
-                mit 6.0001 (2016) - parte 1
-            </a>
-            <br><br>
-            <a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016">
-                mit 6.0002 (2016) - parte 2
-            </a>
-        </td>
-        <td>
-            Introduction to Computation and Programming Using Python.
-            <br><b>John V. Guttag</b>
-            <br> Second Edition
-        </td>
-    </tr>
-    <tr>
-        <td>A2</td>
-        <td>Mathematics for Computer Science</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">
-                mit 6.042J (2010)
-            </a>
-        </td>
-        <td></td>
-        <td>
-            <ul>
-                <li>Mathematics for Computer Science. Eric Lehman. Course notes</li>
-                <li>How to Prove It: A Structured Approach. Daniel J. Velleman. 2nd Edition</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>A3</td>
-        <td>Introduction to Computer Science</td>
-        <td>
-            <a href="https://cs50.harvard.edu/x">
-                CS50x
-            </a>
-        </td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>A4</td>
-        <td>Linear Algebra</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010">
-                mit 18.06 (2010)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Linear Algebra. Gilbert Strang</td>
-    </tr>
-    <tr>
-        <td>A5</td>
-        <td>Probabilidade</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/">
-                mit 6.041 (2010)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd</td>
-    </tr>
-    <tr>
-        <td>A6</td>
-        <td>Ielts</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/ielts-preparation">
-                Ielts Coursera
-            </a>
-        </td>
-        <td></td>
-        <td>Oficial Ielts Book</td>
-    </tr>
-</table> 
+### Especializações Coursera:
+- https://www.coursera.org/specializations/ielts-preparation
+https://www.coursera.org/specializations/c-programming
+https://www.coursera.org/specializations/c-programming-for-everybody
+https://www.coursera.org/specializations/web-applications
+https://www.coursera.org/specializations/web-design
+https://www.coursera.org/specializations/mathematics-machine-learning
+https://www.coursera.org/specializations/american-english-pronunciation
+https://www.coursera.org/specializations/rust-programming
+https://www.coursera.org/specializations/logic-critical-thinking-duke
 
-### Module B
+https://www.coursera.org/specializations/speaklistenenglish
+https://www.coursera.org/specializations/academic-english
+https://www.coursera.org/specializations/database-systems
 
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>B1</td>
-        <td>Circuitos</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/">
-                mit 6.01SC (2011)
-            </a>
-            <br><br>
-            <a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PLpXfHEl2fzl4UTLOus3hJrAPIESr8cW8C">
-                youtube
-            </a>
-        </td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">
-                Aulas em Pt-br
-            </a>
-        </td>
-        <td>Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits</td>
-    </tr>
-    <tr>
-        <td>B2</td>
-        <td>Physics I: Classical Mechanics</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">
-                mit 8.01x
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
-    </tr>
-    <tr>
-        <td>B3</td>
-        <td></td>
-        <td>
-        </td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>B4</td>
-        <td>Algorithms</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">
-                mit 6.006 (2011)
-            </a>
-            <br>
-            <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">
-                6.00-2011
-            </a>
-        </td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">
-                mit 6.006 (2020)
-            </a>
-        </td>
-        <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
-    </tr>
-    <tr>
-        <td>B5</td>
-        <td>Theory of Computation</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">
-                mit 18.404J (2020)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Sipser, Michael. Introduction to the Theory of Computation. 3rd ed.</td>
-    </tr>
-    <tr>
-        <td>B6</td>
-        <td>TOEFL</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/toefl-preparation#courses">
-                TOEFL Coursera
-            </a>
-        </td>
-        <td></td>
-        <td>Oficial TOEFL Book</td>
-    </tr>
-</table> 
+- <a href="https://www.coursera.org/specializations/social-science">Métodos de pesquisa</a>
+- <a href="https://www.coursera.org/specializations/toefl-preparation">TOEFL</a>
+- <a href="https://www.coursera.org/specializations/statistics-with-python">Statistics</a>
+- <a href="https://www.coursera.org/specializations/intermediate-grammar">Intermediate Grammar</a>
+- <a href="https://www.coursera.org/specializations/academic-english">Academic English: Writing</a>
+- <a href="https://www.coursera.org/specializations/data-science-python">Applied Data Science with Python Specialization</a>
+- <a href="https://www.coursera.org/specializations/speaklistenenglish">Advanced Academic Speaking and Listening</a>
+- <a href="https://www.coursera.org/specializations/pcdp">Parallel, Concurrent, and Distributed Programming</a>
 
-### Module C
+Cursos avulsos Coursera:
 
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>C1</td>
-        <td>Estatística</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/">
-                mit 18.650 (2016)
-            </a>
-        </td>
-        <td>
-            <a href="https://www.coursera.org/specializations/statistics-with-python#courses">
-                Statistics Coursera
-            </a>
-        </td>
-        <td>Probability and Statistics for Engineers and Scientists. Ronald E. Walpole</td>
-    </tr>
-    <tr>
-        <td>C2</td>
-        <td>Physics II: Electricity and Magnetism</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">
-                mit 8.02x
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
-    </tr>
-    <tr>
-        <td>C3</td>
-        <td>Sistemas Operacionais</td>
-        <td>
-            <a href="http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start">
-                UFPR
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019.</td>
-    </tr>
-    <tr>
-        <td>C4</td>
-        <td></td>
-        <td>
-        </td>
-        <td></td>
-        <td>Edwards, Henry C., and David E. Penney. Multivariable Calculus. 6th ed.</td>
-    </tr> 
-    <tr>
-        <td>C5</td>
-        <td>Graph Theory</td>
-        <td>
-            <a href="https://canvas.dartmouth.edu/courses/39351">
-                Dartmouth (2020)
-            </a>
-        </td>
-        <td>
-            Aulas Yoshiko ou
-            <br><br>
-            <a href="https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX">youtube</a>
-        </td>
-        <td>Douglas B. West, Introduction to Graph Theory, Second Edition</td>
-    </tr>
-    <tr>
-        <td>C6</td>
-        <td>Writing in the Sciences</td>
-        <td>
-            <a href="https://www.coursera.org/learn/sciwrite/home/welcome">
-                coursera
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr>
-</table> 
+https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
+https://www.coursera.org/learn/arduino/home/welcome
+https://www.coursera.org/learn/intro-to-deep-learning/home/welcome
+https://www.coursera.org/learn/what-is-a-proof/home/welcome
+https://www.coursera.org/learn/activism-social-movements/home/welcome
+https://www.coursera.org/learn/bootstrap-4/home/welcome
+https://www.coursera.org/learn/front-end-react/home/welcome
+https://www.coursera.org/learn/music-theory/home/welcome
+https://www.coursera.org/learn/historia-arte-prehistorico-renacimiento/home/welcome
+https://www.coursera.org/learn/modern-world/home/welcome
+https://www.coursera.org/learn/machine-learning-course/home/welcome
+https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/welcome
+https://www.coursera.org/learn/how-to-write-a-scientific-paper/home/welcome
+https://www.coursera.org/learn/introduction-to-academic-writing/home/welcome
+https://www.coursera.org/learn/server-side-nodejs/home/welcome
+https://www.coursera.org/learn/astro/home/welcome
+https://www.coursera.org/learn/big-data-introduction/home/welcome
+- <a href="https://www.coursera.org/learn/sciwrite/home/welcome">Escrita Científica</a>
 
-### Module D
+### Harvard:
+ 
+- CS50: <a href="https://cs50.harvard.edu/x">Introduction to Computer Science</a>
+- CS50: <a href="https://cs50.harvard.edu/business/2017/"> business </a>
+- CS50: <a href="https://cs50.harvard.edu/cybersecurity/2023/"> cybersecurity </a>
+- CS50: <a href="https://cs50.harvard.edu/games/2018/"> games </a>
+- CS50: <a href="https://cs50.harvard.edu/scratch/"> Introduction to Programming with Scratch  </a>
+- CS50: <a href="https://cs50.harvard.edu/sql/2024/"> SQL</a>
+- CS50: <a href="https://cs50.harvard.edu/technology/2017/"> Understanding Technology</a>
+- CS50: <a href="https://cs50.harvard.edu/web"> Web </a>
+- CS50: <a href="https://cs50.harvard.edu/ai/2024/">AI</a>
 
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>D1</td>
-        <td>Physics III: Vibrations and Waves</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe">
-                mit 8.03x
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Study Guide and Student Solutions Manual, Third Edition, by D. C. Giancoli</td>
-    </tr>
-    <tr>
-        <td>D2</td>
-        <td>Software Engineering</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/software-engineering">
-                coursera
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Software Engineering: Sommerville, Ian</td>
-    </tr>
-    <tr>
-        <td>D3</td>
-        <td>Algorithms Analysis</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">
-                mit 6.046J-Analysis (2015)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd</td>
-    </tr>
-    <tr>
-        <td>D4</td>
-        <td>Computation Structures</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu">
-                MIT 6.004  (2018)
-            </a>
-        </td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/">
-                MIT 6.004 (2017)
-            </a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>D5</td>
-        <td>Orientação a Objetos</td>
-        <td>
-            <a href="https://www.coursera.org/learn/lab-poo-parte-1">
-                Laboratório de Programação Orientada a Objetos - Parte 1
-            </a>
-        </td>
-        <td>
-            <a href="https://www.coursera.org/learn/lab-poo-parte-2">
-                Laboratório de Programação Orientada a Objetos - Parte 2
-            </a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>D6</td>
-        <td>Grammar English</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/intermediate-grammar#courses">Intermediate Grammar</a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr>    
-</table>
+### Cursos Avulsos
 
-### Module E
+- Sistemas Operacionais da UFPR <a href="http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start">Aulas</a>. Livro: MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019.
+- Graph Theory <a href="https://canvas.dartmouth.edu/courses/39351"> Dartmouth (2020)</a> Livro: Douglas B. West, Introduction to Graph Theory, Second Edition
+- Aulas de Grafinhos da Yoshiko <a href="https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX">youtube</a>
+- Curso de Orientação a Objetos do Fábio Kon: <a href="https://www.coursera.org/learn/lab-poo-parte-1">Parte 1</a> - <a href="https://www.coursera.org/learn/lab-poo-parte-2">Parte 2</a>
+- Arquitetura de Computadores Unicamp: <a href="https://www.ic.unicamp.br/~rodolfo/mc404/">Informações</a> - <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6"> Parte 1</a> e <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ">Parte 2</a>
+- MAC0344 Arquitetura de Computadores USP <a href="https://eaulas.usp.br/portal/video.action?idItem=29836"> Aulas </a>
+- Curso Clássico de Banco de dados da Jennifer Widom: <a href="https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm"> aulas </a>
+- Curso de Redes Univesp: <a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk">Aulas</a>
+- Curso de Métodos Numéricos Univesp: <a href="https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p">Aulas</a>
+- Curso sobre Compiladores <a href="https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W">Aulas</a>
+       
 
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>E1</td>
-        <td>Arquitetura de Computadores</td>
-        <td>
-            <a href="https://www.ic.unicamp.br/~rodolfo/mc404/">
-                Unicamp Infos
-            </a>  
-            <br><br>
-            <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6">
-                Unicamp (parte 1)
-            </a>
-            <br><br>
-            <a href="https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ">
-                Unicamp (parte 2)
-            </a>         
-        </td>
-        <td>
-            <a href="https://eaulas.usp.br/portal/video.action?idItem=29836">
-                MAC0344 - IME USP
-            </a>
-        </td>
-        <td>
-            <ul>
-                <li>Edson Borin. An Introduction to Assembly Programming with RISC-V</li>
-                <li>Structured Computer Organization. Tanenbaum</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>E2</td>
-        <td>Database</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm">
-                Stanford by Jennifer Widom
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Database Systems: The Complete Book. <br> Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom</td>
-    </tr>
-    <tr>
-        <td>E3</td>
-        <td>Redes</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk">
-                Univesp
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Computer Networks (5th Edition) by Tanenbaum</td>
-    </tr>
-    <tr>
-        <td>E4</td>
-        <td>Quantum Physics</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013">
-                mit 8.04
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Eisberg</td>
-    </tr>
-    <tr>
-        <td>E5</td>
-        <td>Métodos Numéricos</td>
-        <td>
-            <a href="https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p">
-                Univesp
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Numerical Methods: Problems and Solutions. M. K. Jain</td>
-    </tr>
-    <tr>
-        <td>E6</td>
-        <td>English: Writing</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/academic-english#courses">Academic English: Writing</a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr>
-</table> 
+<a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">
+    Tibishirano
+</a>
 
-### Module F
-
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>F1</td>
-        <td>Compiladores</td>
-        <td>
-            <a href="https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W">
-                youtube
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Aho, A.V., Sethi, R. e Ullman, J.D. Compiladores – Princípios, Técnicas e Ferramentas.</td>
-    </tr>
-    <tr>
-        <td>F2</td>
-        <td>Artificial Intelligence</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/">
-                mit 6.034 (2010)
-            </a>
-        </td>
-        <td>
-            <a href="https://cs50.harvard.edu/ai/2024/">
-                cs50 ai (2024)
-            </a>
-        </td>
-        <td>Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley</td>
-    </tr>
-    <tr>
-        <td>F3</td>
-        <td>Performance</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">
-                mit 6.172 (2018)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>F4</td>
-        <td>Data Science</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/data-science-python">
-                Applied Data Science with Python Specialization 
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr> 
-    <tr>
-        <td>F5</td>
-        <td>Parallel, Concurrent, and Distributed Programming</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/pcdp">
-                Coursera
-            </a>
-        </td>
-        <td>
-        </td>
-        <td>Distributed Systems 4th edition. Tanenbaum</td>
-    </tr>
-    <tr>
-        <td>F6</td>
-        <td>Advanced English</td>
-        <td>
-            <a href="https://www.coursera.org/specializations/speaklistenenglish#courses">Advanced Academic Speaking and Listening</a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr>
-</table> 
-
-### Module G
-
-<table style="width:100%">
-    <tr>
-        <th>My code</th>
-        <th>Name</th>
-        <th>Course 1</th>
-        <th>Course 2</th>
-        <th>Books</th>
-    </tr>
-    <tr>
-        <td>G1</td>
-        <td>Compiladores</td>
-        <td>
-            <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">
-                mit (2018)
-            </a>
-        </td>
-        <td>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>G2</td>
-        <td>Machine Learning</td>
-        <td>
-            <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">
-                Tibishirano
-            </a>
-        </td>
-        <td>
-            <a href="https://www.coursera.org/learn/machine-learning-course/home/week/1">
-                Curso Machine Learning (antigo) (Andrew Ng)
-            </a>
-        </td>
-        <td>Tibishirano. Statistical Learning</td>
-    </tr>
-
-</table> 
-
-### FALTA ARRUMAR
+<a href="https://www.coursera.org/learn/machine-learning-course/home/week/1">
+    Curso Machine Learning (antigo) (Andrew Ng)
+</a>
 
 Cursos avulsos:
 
 - Introduction to R and Geographic Information Systems (GIS) https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/
 - <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Big Data and Education</a>
-- <a href="#">Practical Learning Analytics</a>
 - <a href="https://www.youtube.com/watch?v=W1S-HSakPTM&list=PLFze15KrfxbHYP_YIxwgfVYDTo_bQgqRC">UC Berkeley CS188 Intro to AI (2014) - livro Artificial Intelligence: A Modern Approach, 3rd ed. by Stuart Russell </a>
 - <a href="https://cs230.stanford.edu/lecture/">cs230: deep learning</a>
 - W4995 Applied Machine Learning Spring https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/
 - vue3: https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
-- ipv6: https://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about
-
-Cursos de harvard:
- 
-- CS50 business https://cs50.harvard.edu/business/2017/
-- CS50: cybersecurity https://cs50.harvard.edu/cybersecurity/2023/
-- CS50 games https://cs50.harvard.edu/games/2018/
-- CS50's Introduction to Programming with Scratch https://cs50.harvard.edu/python/2022/
-- CS50 sql https://cs50.harvard.edu/sql/2024/
-- CS50's Understanding Technology - https://cs50.harvard.edu/technology/2017/
-- CS50 web https://cs50.harvard.edu/web/2020/
 
 Cursos avulsos não feitas no Cousera:
 
-- <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
+- 
 - <a href="https://www.coursera.org/specializations/data-science-python#courses">Applied Data Science with Python</a>
 - Introduction to Discrete Mathematics for Computer Science Specialization
 - Big Data Specialization
@@ -763,10 +276,6 @@ Cursos avulsos não feitas no Cousera:
 - Web Applications for Everybody Specialization
 - Data Structures and Algorithms Specialization
 - Introduction to Logic and Critical Thinking Specialization
-
-
-Cursos avulsos não feitos no coursera:
-
 - Server-side Development with NodeJS, Express and MongoDB
 - Processamento Neural de Linguagem Natural em Português I
 - The Modern World, Part One: Global History from 1760 to 1910
