@@ -122,11 +122,25 @@
   </tr>
   <tr>
     <td><b>Book Work</b></td>
-    <td>Moodle Developer's Guide. <u>Ian Wild.</u></td>
-    <td>CCNA. <u>Todd Lammle.</u></td>
-    <td>Drupal Module Development. <u>Daniel Sipos.</u></td>
-    <td>Machine Learning for the Web. <u>Andrea Isoni.</u></td>
-    <td>Hands-On Machine Learning.<u>Aurélien Géron.</u> </td>
+    <td>
+      Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
+      Programming Hive.<u>Edward Capriolo</u>
+    </td>
+    <td>
+      CCNA. <u>Todd Lammle.</u><br><br>
+      Building the Data Warehouse. <u>W. H. Inmon</u><br><br>
+    </td>
+    <td>
+      Drupal Module Development. <u>Daniel Sipos.</u><br><br>
+      Laboratórios de Tecnologias Cisco. <u>Brito.</u><br><br>
+    </td>
+    <td>
+      Machine Learning for the Web. <u>Andrea Isoni.</u><br><br>
+      Livro Ielts
+    </td>
+    <td>
+      Hands-On Machine Learning.<u>Aurélien Géron.</u><br><br>
+    </td>
   </tr>
   <tr>
     <td><b>Book Home</b></td>
@@ -170,49 +184,47 @@
 - Computation Structures: <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"> 6.004 (2017)</a> - playlist das aulas <a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu"> youtube </a>
 
 ### Especializações Coursera:
+
 - https://www.coursera.org/specializations/ielts-preparation
-https://www.coursera.org/specializations/c-programming
-https://www.coursera.org/specializations/c-programming-for-everybody
-https://www.coursera.org/specializations/web-applications
-https://www.coursera.org/specializations/web-design
-https://www.coursera.org/specializations/mathematics-machine-learning
-https://www.coursera.org/specializations/american-english-pronunciation
-https://www.coursera.org/specializations/rust-programming
-https://www.coursera.org/specializations/logic-critical-thinking-duke
+- https://www.coursera.org/specializations/toefl-preparation
+- https://www.coursera.org/specializations/c-programming
+- https://www.coursera.org/specializations/c-programming-for-everybody
+- https://www.coursera.org/specializations/web-applications
+- https://www.coursera.org/specializations/mathematics-machine-learning
+- https://www.coursera.org/specializations/american-english-pronunciation
+- https://www.coursera.org/specializations/rust-programming
+- https://www.coursera.org/specializations/logic-critical-thinking-duke
+- https://www.coursera.org/specializations/speaklistenenglish
+- https://www.coursera.org/specializations/academic-english
+- https://www.coursera.org/specializations/database-systems
+- https://www.coursera.org/specializations/social-science
+- https://www.coursera.org/specializations/statistics-with-python
+- https://www.coursera.org/specializations/intermediate-grammar
+- https://www.coursera.org/specializations/data-science-python
+- https://www.coursera.org/specializations/pcdp
 
-https://www.coursera.org/specializations/speaklistenenglish
-https://www.coursera.org/specializations/academic-english
-https://www.coursera.org/specializations/database-systems
-
-- <a href="https://www.coursera.org/specializations/social-science">Métodos de pesquisa</a>
-- <a href="https://www.coursera.org/specializations/toefl-preparation">TOEFL</a>
-- <a href="https://www.coursera.org/specializations/statistics-with-python">Statistics</a>
-- <a href="https://www.coursera.org/specializations/intermediate-grammar">Intermediate Grammar</a>
-- <a href="https://www.coursera.org/specializations/academic-english">Academic English: Writing</a>
-- <a href="https://www.coursera.org/specializations/data-science-python">Applied Data Science with Python Specialization</a>
-- <a href="https://www.coursera.org/specializations/speaklistenenglish">Advanced Academic Speaking and Listening</a>
-- <a href="https://www.coursera.org/specializations/pcdp">Parallel, Concurrent, and Distributed Programming</a>
 
 Cursos avulsos Coursera:
 
-https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
-https://www.coursera.org/learn/arduino/home/welcome
-https://www.coursera.org/learn/intro-to-deep-learning/home/welcome
-https://www.coursera.org/learn/what-is-a-proof/home/welcome
-https://www.coursera.org/learn/activism-social-movements/home/welcome
-https://www.coursera.org/learn/bootstrap-4/home/welcome
-https://www.coursera.org/learn/front-end-react/home/welcome
-https://www.coursera.org/learn/music-theory/home/welcome
-https://www.coursera.org/learn/historia-arte-prehistorico-renacimiento/home/welcome
-https://www.coursera.org/learn/modern-world/home/welcome
-https://www.coursera.org/learn/machine-learning-course/home/welcome
-https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/welcome
-https://www.coursera.org/learn/how-to-write-a-scientific-paper/home/welcome
-https://www.coursera.org/learn/introduction-to-academic-writing/home/welcome
-https://www.coursera.org/learn/server-side-nodejs/home/welcome
-https://www.coursera.org/learn/astro/home/welcome
-https://www.coursera.org/learn/big-data-introduction/home/welcome
-- <a href="https://www.coursera.org/learn/sciwrite/home/welcome">Escrita Científica</a>
+- <a href="https://www.coursera.org/learn/machine-learning-course/home/welcome">Curso Machine Learning (antigo) (Andrew Ng)
+</a>
+- https://www.coursera.org/learn/sciwrite/home/welcome
+- https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
+- https://www.coursera.org/learn/arduino/home/welcome
+- https://www.coursera.org/learn/intro-to-deep-learning/home/welcome
+- https://www.coursera.org/learn/what-is-a-proof/home/welcome
+- https://www.coursera.org/learn/activism-social-movements/home/welcome
+- https://www.coursera.org/learn/bootstrap-4/home/welcome
+- https://www.coursera.org/learn/front-end-react/home/welcome
+- https://www.coursera.org/learn/music-theory/home/welcome
+- https://www.coursera.org/learn/historia-arte-prehistorico-renacimiento/home/welcome
+- https://www.coursera.org/learn/modern-world/home/welcome
+- https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/welcome
+- https://www.coursera.org/learn/how-to-write-a-scientific-paper/home/welcome
+- https://www.coursera.org/learn/introduction-to-academic-writing/home/welcome
+- https://www.coursera.org/learn/server-side-nodejs/home/welcome
+- https://www.coursera.org/learn/astro/home/welcome
+- https://www.coursera.org/learn/big-data-introduction/home/welcome
 
 ### Harvard:
  
@@ -228,6 +240,7 @@ https://www.coursera.org/learn/big-data-introduction/home/welcome
 
 ### Cursos Avulsos
 
+- <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">Tibishirano</a>
 - Sistemas Operacionais da UFPR <a href="http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start">Aulas</a>. Livro: MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019.
 - Graph Theory <a href="https://canvas.dartmouth.edu/courses/39351"> Dartmouth (2020)</a> Livro: Douglas B. West, Introduction to Graph Theory, Second Edition
 - Aulas de Grafinhos da Yoshiko <a href="https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX">youtube</a>
@@ -238,47 +251,8 @@ https://www.coursera.org/learn/big-data-introduction/home/welcome
 - Curso de Redes Univesp: <a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk">Aulas</a>
 - Curso de Métodos Numéricos Univesp: <a href="https://www.youtube.com/watch?v=OXPKrTqAXuw&list=PLxI8Can9yAHebCIYfnSq7xoITrKOQpI0p">Aulas</a>
 - Curso sobre Compiladores <a href="https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W">Aulas</a>
-       
-
-<a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">
-    Tibishirano
-</a>
-
-<a href="https://www.coursera.org/learn/machine-learning-course/home/week/1">
-    Curso Machine Learning (antigo) (Andrew Ng)
-</a>
-
-Cursos avulsos:
-
 - Introduction to R and Geographic Information Systems (GIS) https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/
-- <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Big Data and Education</a>
 - <a href="https://www.youtube.com/watch?v=W1S-HSakPTM&list=PLFze15KrfxbHYP_YIxwgfVYDTo_bQgqRC">UC Berkeley CS188 Intro to AI (2014) - livro Artificial Intelligence: A Modern Approach, 3rd ed. by Stuart Russell </a>
 - <a href="https://cs230.stanford.edu/lecture/">cs230: deep learning</a>
 - W4995 Applied Machine Learning Spring https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/
 - vue3: https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
-
-Cursos avulsos não feitas no Cousera:
-
-- 
-- <a href="https://www.coursera.org/specializations/data-science-python#courses">Applied Data Science with Python</a>
-- Introduction to Discrete Mathematics for Computer Science Specialization
-- Big Data Specialization
-- Database systems Specialization
-- Mathematics for Machine Learning Specialization - 
-- Introductory C Programming Specialization
-- GIS, Mapping, and Spatial Analysis Specialization
-- Web Applications for Everybody Specialization
-- Data Structures and Algorithms Specialization
-- Introduction to Logic and Critical Thinking Specialization
-- Server-side Development with NodeJS, Express and MongoDB
-- Processamento Neural de Linguagem Natural em Português I
-- The Modern World, Part One: Global History from 1760 to 1910
-- Historia del Arte: Del Arte Prehistórico al Renacimiento
-- Getting Started With Music Theory
-- Front-End Web Development with React
-- Front-End Web UI Frameworks and Tools: Bootstrap 4
-- ART of the MOOC: Activism and Social Movements
-- Introduction to Deep Learning
-- Building Arduino robots and devices
-- <a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write a Scientific Paper </a>
-- <a href="https://www.coursera.org/learn/introduction-to-academic-writing">Introduction to Academic Writing </a>
