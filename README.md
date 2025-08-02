@@ -206,8 +206,7 @@
 
 Cursos avulsos Coursera:
 
-- <a href="https://www.coursera.org/learn/machine-learning-course/home/welcome">Curso Machine Learning (antigo) (Andrew Ng)
-</a>
+- <a href="https://www.coursera.org/learn/machine-learning-course/home/welcome">Curso Machine Learning (antigo) (Andrew Ng)</a>
 - https://www.coursera.org/learn/sciwrite/home/welcome
 - https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
 - https://www.coursera.org/learn/arduino/home/welcome
