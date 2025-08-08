@@ -124,7 +124,7 @@
     <td><b>Book Work</b></td>
     <td>
       Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
-      Programming Hive.<u>Edward Capriolo</u>
+      Moodle Security. <u> Darko Mileti </u>
     </td>
     <td>
       CCNA. <u>Todd Lammle.</u><br><br>
@@ -140,6 +140,7 @@
     </td>
     <td>
       Hands-On Machine Learning.<u>Aurélien Géron.</u><br><br>
+      Programming Hive.<u>Edward Capriolo</u>
     </td>
   </tr>
   <tr>
@@ -202,7 +203,6 @@
 - https://www.coursera.org/specializations/intermediate-grammar
 - https://www.coursera.org/specializations/data-science-python
 - https://www.coursera.org/specializations/pcdp
-
 
 Cursos avulsos Coursera:
 
