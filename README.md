@@ -131,15 +131,15 @@
       <s>CCNA. <u>Todd Lammle.</u></s>
     </td>
     <td>
-      Laboratórios de Tecnologias Cisco. <u>Brito.</u>
-      <s>Drupal Module Development. <u>Daniel Sipos.</u><br><br></s>
+      Laboratórios de Tecnologias Cisco. <u>Brito.</u><br><br>
+      <s>Drupal Module Development. <u>Daniel Sipos.</u></s>
     </td>
     <td>
       Livro Ielts<br><br>
       <s>Machine Learning for the Web. <u>Andrea Isoni.</u></s>
     </td>
     <td>
-      Programming Hive.<u>Edward Capriolo</u>
+      Programming Hive.<u>Edward Capriolo</u><br><br>
       <s>Hands-On Machine Learning.<u>Aurélien Géron.</u><br><br></s>
     </td>
   </tr>
@@ -147,23 +147,24 @@
     <td><b>Book Home</b></td>
     <td>
      Introduction to Computation. <u>John V. Guttag.</u><br><br>
-     Introduction to Algorithms. <u>Cormen</u>
+     <s>Introduction to Algorithms. <u>Cormen</u></s>
     </td>
     <td>
       Introduction to the Theory of Computation. <u>Sipser, Michael.</u><br><br>
-      Introduction to Classical and Quantum Computing. <u>Thomas G. Wong</u>
+      <s>Introduction to Classical and Quantum Computing. <u>Thomas G. Wong</u></s>
     </td>
     <td>
       Linear Algebra. <u>Gilbert Strang.</u><br><br>
-      Calculus With Analytic Geometry <u>Simmons, George</u>
+      <s>Mathematics for Computer Science. <u>Eric Lehman.</u></s>
     </td>
     <td>
       Discrete Mathematics and Its Applications. <u>Kenneth</u><br><br>
-      Mathematics for Computer Science. <u>Eric Lehman.</u>
+      Calculus With Analytic Geometry <u>Simmons, George</u>
+      
     </td>
     <td>
-      1. An Introduction to Statistical Learning. <u>Tibishirano</u><br><br>
-      2. Mathematical Structures for Computer Science. <u>Judith Gersting. 7th.</u>
+      An Introduction to Statistical Learning. <u>Tibishirano</u><br><br>
+      <s>Mathematical Structures for Computer Science. <u>Judith Gersting. 7th.</u></s>
     </td>
   </tr>
 </tbody>
