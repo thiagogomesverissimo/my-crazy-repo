@@ -160,7 +160,6 @@
     <td>
       Discrete Mathematics and Its Applications. <u>Kenneth</u><br><br>
       Calculus With Analytic Geometry <u>Simmons, George</u>
-      
     </td>
     <td>
       An Introduction to Statistical Learning. <u>Tibishirano</u><br><br>
