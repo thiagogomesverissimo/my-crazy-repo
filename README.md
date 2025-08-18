@@ -124,23 +124,23 @@
     <td><b>Book Work</b></td>
     <td>
       Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
-      Moodle Security. <u> Darko Mileti </u>
+      <s>Moodle Security. <u> Darko Mileti </u></s>
     </td>
     <td>
-      CCNA. <u>Todd Lammle.</u><br><br>
       Building the Data Warehouse. <u>W. H. Inmon</u><br><br>
+      <s>CCNA. <u>Todd Lammle.</u></s>
     </td>
     <td>
-      Drupal Module Development. <u>Daniel Sipos.</u><br><br>
-      Laboratórios de Tecnologias Cisco. <u>Brito.</u><br><br>
+      Laboratórios de Tecnologias Cisco. <u>Brito.</u>
+      <s>Drupal Module Development. <u>Daniel Sipos.</u><br><br></s>
     </td>
     <td>
-      Machine Learning for the Web. <u>Andrea Isoni.</u><br><br>
-      Livro Ielts
+      Livro Ielts<br><br>
+      <s>Machine Learning for the Web. <u>Andrea Isoni.</u></s>
     </td>
     <td>
-      Hands-On Machine Learning.<u>Aurélien Géron.</u><br><br>
       Programming Hive.<u>Edward Capriolo</u>
+      <s>Hands-On Machine Learning.<u>Aurélien Géron.</u><br><br></s>
     </td>
   </tr>
   <tr>
