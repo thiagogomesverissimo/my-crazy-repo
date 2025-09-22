@@ -118,8 +118,12 @@
     <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>CCNAv7: Switching, Routing e Wireless Essentials</td>
     <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>IPv6</td>
     <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>HCIA Datacom [Huawei]</td>
-    <td><a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a></td>
+    <td><a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
+        <br>
+        Edx Ansible
+    </td>
   </tr>
+
   <tr>
     <td><b>Book Work</b></td>
     <td>
@@ -166,6 +170,24 @@
       <s>Mathematical Structures for Computer Science. <u>Judith Gersting. 7th.</u></s>
     </td>
   </tr>
+
+  <tr>
+    <td><b>Spanish</b></td>
+    <td>
+      Introducción a Java
+    </td>
+    <td>
+      Diseño instruccional para el aprendizaje activo 
+    </td>
+    <td>
+      Bienvenidos al español: A1.1
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
 </tbody>
 </table>
 
