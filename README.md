@@ -70,7 +70,7 @@
     </thead>
 <tbody>
   <tr>
-    <td><b>OCW</b></td>
+    <td><b>E1 - OCW</b></td>
     <td>
         Intro cs:
         <ul>
@@ -104,88 +104,50 @@
   </tr>
 
   <tr>
-    <td><b>MOOC</b></td>
-    <td><a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a>
-     </td>
-    <td> <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a></td>
+    <td><b>E2 - Avulsos</b></td>
+    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>HCIA Datacom [Huawei]</td>
+    <td> </td>
     <td> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
     <td> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
     <td> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
   </tr>
-  <tr>
-    <td><b>Work Courses</b></td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br> CCNAv7: Introdução às Redes</td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>CCNAv7: Switching, Routing e Wireless Essentials</td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>IPv6</td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>HCIA Datacom [Huawei]</td>
-    <td><a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
-        <br>
-        Edx Ansible
-    </td>
-  </tr>
 
   <tr>
-    <td><b>Book Work</b></td>
+    <td><b>E3 - Book Work</b></td>
     <td>
       Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
-      <s>Moodle Security. <u> Darko Mileti </u></s>
     </td>
     <td>
-      Building the Data Warehouse. <u>W. H. Inmon</u><br><br>
-      <s>CCNA. <u>Todd Lammle.</u></s>
+      Building the Data Warehouse. <u>W. H. Inmon</u>
     </td>
     <td>
       Laboratórios de Tecnologias Cisco. <u>Brito.</u><br><br>
-      <s>Drupal Module Development. <u>Daniel Sipos.</u></s>
     </td>
     <td>
-      Livro Ielts<br><br>
-      <s>Machine Learning for the Web. <u>Andrea Isoni.</u></s>
+      Machine Learning for the Web. <u>Andrea Isoni.
     </td>
     <td>
       Programming Hive.<u>Edward Capriolo</u><br><br>
-      <s>Hands-On Machine Learning.<u>Aurélien Géron.</u><br><br></s>
     </td>
   </tr>
   <tr>
     <td><b>Book Home</b></td>
     <td>
      Introduction to Computation. <u>John V. Guttag.</u><br><br>
-     <s>Introduction to Algorithms. <u>Cormen</u></s>
     </td>
     <td>
       Introduction to the Theory of Computation. <u>Sipser, Michael.</u><br><br>
-      <s>Introduction to Classical and Quantum Computing. <u>Thomas G. Wong</u></s>
     </td>
     <td>
-      Linear Algebra. <u>Gilbert Strang.</u><br><br>
-      <s>Mathematics for Computer Science. <u>Eric Lehman.</u></s>
+      1 - Linear Algebra. <u>Gilbert Strang.</u><br><br>
+      2 - Introduction to Classical and Quantum Computing. <u>Thomas G. Wong</u>
     </td>
     <td>
-      Discrete Mathematics and Its Applications. <u>Kenneth</u><br><br>
-      <s>Calculus With Analytic Geometry <u>Simmons, George</u></s>
+      1 - Discrete Mathematics and Its Applications. <u>Kenneth</u><br><br>
+      2 - Mathematics for Computer Science. <u>Eric Lehman.</u>
     </td>
     <td>
-      An Introduction to Statistical Learning. <u>Tibishirano</u><br><br>
-      <s>Mathematical Structures for Computer Science. <u>Judith Gersting. 7th.</u></s>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Spanish</b></td>
-    <td>
-      Introducción a Java
-    </td>
-    <td>
-      Diseño instruccional para el aprendizaje activo 
-    </td>
-    <td>
-      Bienvenidos al español: A1.1
-    </td>
-    <td>
-    </td>
-    Autocad
-    <td>
+      Calculus With Analytic Geometry <u>Simmons, George</u>
     </td>
   </tr>
 
@@ -209,6 +171,8 @@
 
 ### Especializações Coursera:
 
+- <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
+- <a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a>
 - https://www.coursera.org/specializations/ielts-preparation
 - https://www.coursera.org/specializations/toefl-preparation
 - https://www.coursera.org/specializations/c-programming
@@ -229,6 +193,10 @@
 
 Cursos avulsos Coursera:
 
+- Bienvenidos al español: A1.1
+- Diseño instruccional para el aprendizaje activo 
+- Introducción a Java
+- <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a>
 - <a href="https://www.coursera.org/learn/machine-learning-course/home/welcome">Curso Machine Learning (antigo) (Andrew Ng)</a>
 - https://www.coursera.org/learn/sciwrite/home/welcome
 - https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
@@ -262,6 +230,7 @@ Cursos avulsos Coursera:
 
 ### Cursos Avulsos
 
+- no edx.org tem um curso de infra que usa ansible
 - <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">Tibishirano</a>
 - Sistemas Operacionais da UFPR <a href="http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start">Aulas</a>. Livro: MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019.
 - Graph Theory <a href="https://canvas.dartmouth.edu/courses/39351"> Dartmouth (2020)</a> Livro: Douglas B. West, Introduction to Graph Theory, Second Edition
