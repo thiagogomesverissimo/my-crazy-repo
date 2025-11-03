@@ -106,7 +106,7 @@
   <tr>
     <td><b>E2 - Avulsos</b></td>
     <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>HCIA Datacom [Huawei]</td>
-    <td> </td>
+    <td> Curso cisco e ipv6 nic.br</td>
     <td> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
     <td> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
     <td> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
@@ -127,7 +127,7 @@
       Machine Learning for the Web. <u>Andrea Isoni.
     </td>
     <td>
-      Programming Hive.<u>Edward Capriolo</u><br><br>
+      Hands-On Géron</u><br><br>
     </td>
   </tr>
   <tr>
