@@ -115,19 +115,19 @@
   <tr>
     <td><b>E3 - Book Work</b></td>
     <td>
-      Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
+      Machine Learning for the Web (depois Hands-On Géron)
     </td>
     <td>
-      Building the Data Warehouse. <u>W. H. Inmon</u>
+      Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
     </td>
     <td>
       Laboratórios de Tecnologias Cisco. <u>Brito.</u><br><br>
     </td>
     <td>
-      Machine Learning for the Web. <u>Andrea Isoni.
+      IELTS
     </td>
     <td>
-      Hands-On Géron</u><br><br>
+      Avulsos - mesa marrom
     </td>
   </tr>
   <tr>
