@@ -1,3 +1,7 @@
+ideas from:
+
+https://github.com/ossu/computer-science
+
 ### Editando localmente
 
     sudo apt install npm
