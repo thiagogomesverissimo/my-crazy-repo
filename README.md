@@ -2,6 +2,7 @@ ideas from:
 
 - https://github.com/ossu/computer-science
 - https://github.com/PKUFlyingPig/Self-learning-Computer-Science
+- https://oinam.github.io/CS-curriculum/
 
 ### Editando localmente
 
