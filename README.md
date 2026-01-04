@@ -1,6 +1,7 @@
 ideas from:
 
-https://github.com/ossu/computer-science
+- https://github.com/ossu/computer-science
+- https://github.com/PKUFlyingPig/Self-learning-Computer-Science
 
 ### Editando localmente
 
