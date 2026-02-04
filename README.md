@@ -10,7 +10,6 @@ ideas from:
     sudo npm install -g md-fileserver
     mdstart README.md
 
-### Corpo
 <table>
 <thead>
   <tr>
@@ -44,7 +43,7 @@ ideas from:
   </tr>
   <tr>
     <td> Fit 1</td>
-    <td> <a href="https://youtu.be/-4GubVYyfZU">Cavalinho</a></td>
+    <td> <a href="https://youtu.be/gAD7z8vDf2g">Cavalinho</a></td>
     <td> <a href="https://youtu.be/pKA5JOYEDwQ">Luz do luar</a></td>
     <td> <a href="https://youtu.be/VwGEitAHxNQ">Mil vezes</a></td>
     <td> <a href="https://youtu.be/nR60om9vpeU">Ram tchum</a></td>
@@ -66,104 +65,191 @@ ideas from:
 <table>
     <thead>
     <tr>
-        <th>Time</th>
-        <th>Seg</th>
-        <th>Ter</th>
-        <th>Qua</th>
-        <th>Qui</th>
-        <th>Sex</th>
+        <th>2-Científica</th>
+        <th>3-Teoria-Computacional</th>
+        <th>4-Sistemas-Computacionais</th>
+        <th>5-Técnica</th>
+        <th>6-Matemática</th>
     </tr>
     </thead>
 <tbody>
   <tr>
-    <td><b>E1 - OCW</b></td>
-    <td>
-        Intro cs:
-        <ul>
-            <li><a href="https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/">2022</a></li>
-            <li><a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016">2016-1</a></li>
-            <li><a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016">2016-2</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">2011</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL4C4720A6F225E074">2008</a></li>
-        </ul>
-    </td>
+    <td><a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a></td>
     <td> 
-        <a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"> 18.404J-Automata </a>
+      MIT CS:
+        <a href="https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/">2022</a>,
+        <a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016">2016-1</a>,
+        <a href="https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016">2016-2</a>,
+        <a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">2011</a>,
+        <a href="https://www.youtube.com/playlist?list=PL4C4720A6F225E074">2008</a>
     </td>
+    <td></td>
+    <td><a href="https://cursoseventos.nic.br/">HCIA Datacom [Huawei]</a></td>
     <td> 
-        <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">18.06 LA</a>
-    </td>
+      <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">Cálculo 1</a> (<a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation 1</a>), 
+      <a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">Cálculo 2</a>
+      (<a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation 2</a>)         
+  </tr>
+
+  <tr>
+    <td><a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
     <td>
         Math CS:
-        <ul>
-            <li><a href="https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/">2024</a></li>
-            <li><a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">2010</a></li>
-        </ul>
+        <a href="https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/">2024</a>,
+        <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">2010</a>
     </td>
-    <td> 
-        <ul>
-            <li><a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">Cálculo 1</a>-<a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation 1</a></li>
-            <li><a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">Cálculo 2</a>
-            <a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation 2</a>
-        </ul>
-                
+    <td></td>
+    <td><a href="https://cursoseventos.nic.br/">cisco</a></td>
+    <td><a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">MIT 18.06 LA</a></td>
   </tr>
 
   <tr>
-    <td><b>E2 - Avulsos</b></td>
-    <td><a href="https://cursoseventos.nic.br/">nib.br</a><br>HCIA Datacom [Huawei]</td>
-    <td> Curso cisco e ipv6 nic.br</td>
-    <td> <a href="https://www.coursera.org/specializations/software-engineering"> Coursera: Software Engineering </a></td>
-    <td> <a href="https://learning.edx.org/course/course-v1:PennX+BDE1x+1T2021/">Big Data and Education</a><br></td>
-    <td> <a href="https://learning.edx.org/course/course-v1:MichiganX+PLAx+3T2016/home">Practical Learning Analytics</a></td>
+    <td></td>
+    <td><a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"> 18.404J - Automata </a></td>
+    <td></td>
+    <td><a href="https://cursoseventos.nic.br/">ipv6</a></td>
+    <td></td>
   </tr>
 
   <tr>
-    <td><b>E3 - Book Work</b></td>
-    <td>
-      Machine Learning for the Web (depois Hands-On Géron)
-    </td>
-    <td>
-      Moodle Developer's Guide. <u>Ian Wild.</u><br><br>
-    </td>
-    <td>
-      Laboratórios de Tecnologias Cisco. <u>Brito.</u><br><br>
-    </td>
-    <td>
-      IELTS
-    </td>
-    <td>
-      Avulsos - mesa marrom
-    </td>
+    <td></td>
+    <td>Algorithms: <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">2011</a>,<a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">2020</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
+
   <tr>
-    <td><b>Book Home</b></td>
-    <td>
-     Introduction to Computation. <u>John V. Guttag.</u><br><br>
-    </td>
-    <td>
-      Introduction to the Theory of Computation. <u>Sipser, Michael.</u><br><br>
-    </td>
-    <td>
-      1 - Linear Algebra. <u>Gilbert Strang.</u><br><br>
-      2 - Introduction to Classical and Quantum Computing. <u>Thomas G. Wong</u>
-    </td>
-    <td>
-      1 - Discrete Mathematics and Its Applications. <u>Kenneth</u><br><br>
-      2 - Mathematics for Computer Science. <u>Eric Lehman.</u>
-    </td>
-    <td>
-      Calculus With Analytic Geometry <u>Simmons, George</u>
-    </td>
+    <td></td>
+    <td><a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">6.046J - Algorithms Analysis</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </tbody>
 </table>
 
+
+Class-based Program Design - https://course.ccs.neu.edu/cs2510sp22/index.html
+The Missing Semester of Your CS Education - https://missing.csail.mit.edu/
+Introduction to Operating Systems - https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html
+
+Computer Networking - https://gaia.cs.umass.edu//kurose_ross/online_lectures.htm
+Algorithms - https://www.algorithmsilluminated.org/
+Databases - https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0
+Computer Graphics - https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html
+
+Software Engineering - https://github.com/ubccpsc/310/blob/main/resources/README.md
+
+Nand To Tetris: 
+Part 1 - https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1
+parte 2 - https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh
+Artificial Intelligence - https://www.cse.iitd.ac.in/~mausam/courses/col333/autumn2025/
+Software Debugging - https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A
+Software Testing - https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g
+Teoria da computação - https://www.youtube.com/playlist?list=PLEE7DF8F5E0203A56
+probabilidade - https://stat110.hsites.harvard.edu/
+Modern Robotics - https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+
+apps (não tem vídeo) https://fullstackopen.com/en/#course-contents
+
+MIT6.431: Probabilistic Systems Analysis and Applied Probability - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm
+
+Differential Equations - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/
+
+Introduction to Computational Thinking - https://computationalthinking.mit.edu/Fall24/semesters/
+
+Safety in Systems Programming - https://reberhardt.com/cs110l/spring-2020/
+Engineering Software as a Service: - https://saasbook.info/
+
+
+
+
 ### Cursos OCW:
 
-- Algorithms: <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">6.006 (2011)</a> - <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">6.006 (2020)</a>
-- Algorithms Analysis <a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">6.046J (2015)</a>
+- 
+- 
 - Circuitos: <a href="https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/"> 6.01SC (2011)</a> - playlist das aulas no <a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PLpXfHEl2fzl4UTLOus3hJrAPIESr8cW8C"> youtube</a> - livro: Agarwal, Anant, and Jeffrey H. Lang. Foundations of Analog and Digital Electronic Circuits
 - Probabilidade: <a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/"> 6.041 (2010)</a> - O livro já está impresso: <i>Introduction to Probability.</i> Bertsekas, Dimitri, and John Tsitsiklis. 
 - Physics I - Classical Mechanics: <a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">8.01x</a>. Livro do D. C. Giancoli
@@ -175,52 +261,9 @@ ideas from:
 - Performance: <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">6.172 (2018)</a>
 - Computation Structures: <a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"> 6.004 (2017)</a> - playlist das aulas <a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu"> youtube </a>
 
-### Especializações Coursera:
+https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0
+https://codingthematrix.com/
 
-- <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>
-- <a href="https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu">Coursera ML</a>
-- https://www.coursera.org/specializations/ielts-preparation
-- https://www.coursera.org/specializations/toefl-preparation
-- https://www.coursera.org/specializations/c-programming
-- https://www.coursera.org/specializations/c-programming-for-everybody
-- https://www.coursera.org/specializations/web-applications
-- https://www.coursera.org/specializations/mathematics-machine-learning
-- https://www.coursera.org/specializations/american-english-pronunciation
-- https://www.coursera.org/specializations/rust-programming
-- https://www.coursera.org/specializations/logic-critical-thinking-duke
-- https://www.coursera.org/specializations/speaklistenenglish
-- https://www.coursera.org/specializations/academic-english
-- https://www.coursera.org/specializations/database-systems
-- https://www.coursera.org/specializations/social-science
-- https://www.coursera.org/specializations/statistics-with-python
-- https://www.coursera.org/specializations/intermediate-grammar
-- https://www.coursera.org/specializations/data-science-python
-- https://www.coursera.org/specializations/pcdp
-
-Cursos avulsos Coursera:
-
-- Bienvenidos al español: A1.1
-- Diseño instruccional para el aprendizaje activo 
-- Introducción a Java
-- <a href="https://www.coursera.org/learn/english-composition/home/"> Coursera: English Composition </a>
-- <a href="https://www.coursera.org/learn/machine-learning-course/home/welcome">Curso Machine Learning (antigo) (Andrew Ng)</a>
-- https://www.coursera.org/learn/sciwrite/home/welcome
-- https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
-- https://www.coursera.org/learn/arduino/home/welcome
-- https://www.coursera.org/learn/intro-to-deep-learning/home/welcome
-- https://www.coursera.org/learn/what-is-a-proof/home/welcome
-- https://www.coursera.org/learn/activism-social-movements/home/welcome
-- https://www.coursera.org/learn/bootstrap-4/home/welcome
-- https://www.coursera.org/learn/front-end-react/home/welcome
-- https://www.coursera.org/learn/music-theory/home/welcome
-- https://www.coursera.org/learn/historia-arte-prehistorico-renacimiento/home/welcome
-- https://www.coursera.org/learn/modern-world/home/welcome
-- https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/welcome
-- https://www.coursera.org/learn/how-to-write-a-scientific-paper/home/welcome
-- https://www.coursera.org/learn/introduction-to-academic-writing/home/welcome
-- https://www.coursera.org/learn/server-side-nodejs/home/welcome
-- https://www.coursera.org/learn/astro/home/welcome
-- https://www.coursera.org/learn/big-data-introduction/home/welcome
 
 ### Harvard:
  
