@@ -67,8 +67,8 @@ ideas from:
     <tr>
         <th>2-Científica</th>
         <th>3-Teoria-Computacional</th>
-        <th>4-Sistemas-Computacionais</th>
-        <th>5-Técnica</th>
+        <th>4-Técnica</th>
+        <th>5-Sistemas-Computacionais</th>
         <th>6-Matemática</th>
     </tr>
     </thead>
@@ -83,8 +83,8 @@ ideas from:
         <a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">2011</a>,
         <a href="https://www.youtube.com/playlist?list=PL4C4720A6F225E074">2008</a>
     </td>
-    <td><a href="https://missing.csail.mit.edu/">The Missing Semester</a></td>
     <td><a href="https://cursoseventos.nic.br/">HCIA Datacom [Huawei]</a></td>
+    <td><a href="https://missing.csail.mit.edu/">The Missing Semester</a></td>
     <td> 
       <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">Cálculo 1</a> (<a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation 1</a>)         
   </tr>
@@ -96,8 +96,8 @@ ideas from:
         <a href="https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/">2024</a>,
         <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">2010</a>
     </td>
-    <td><a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"> 6.004 - Computation Structures</a> (<a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu">youtube</a>)</td>
     <td><a href="https://cursoseventos.nic.br/">cisco</a></td>
+    <td><a href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"> 6.004 - Computation Structures</a> (<a href="https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu">youtube</a>)</td>
     <td><a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/">Cálculo 2</a>
       (<a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01">Recitation 2</a>)</td>
   </tr>
@@ -105,16 +105,16 @@ ideas from:
   <tr>
     <td></td>
     <td><a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/"> 18.404J - Automata </a></td>
-    <td><a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">6.172 HPC</a></td>
     <td><a href="https://cursoseventos.nic.br/">ipv6</a></td>
+    <td><a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">6.172 HPC</a></td>
     <td><a href="https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/">Cálculo 3</a></td>
   </tr>
 
   <tr>
     <td></td>
     <td>Algorithms: <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011">2011</a>,<a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020">2020</a></td>
-    <td><a href="https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm">Databases - Jennifer Widom </a></td>
     <td><a href="https://fullstackopen.com/en/#course-contents">FullStack</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm">Databases - Jennifer Widom </a></td>
     <td><a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/">MIT 18.06 LA</a></td>
   </tr>
 
@@ -129,57 +129,57 @@ ideas from:
   <tr>
     <td></td>
     <td><a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">6.046J - Algorithms Analysis</a></td>
-    <td><a href="https://cs230.stanford.edu/lecture/">cs230 - deep learning</a></td>
     <td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A">Udacity - Debugging</a></td>
+    <td><a href="https://cs230.stanford.edu/lecture/">cs230 - deep learning</a></td>
     <td><a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/"> 6.041 - Probabilidade</a></td>
   </tr>
 
   <tr>
     <td></td>
     <td><a href="https://canvas.dartmouth.edu/courses/39351"> Graph Theory</a></td>
-    <td><a href="https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/">W4995 - Applied Machine Learning Spring </a></td>
     <td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g">Udacity - Testing</a></td>
+    <td><a href="https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/">W4995 - Applied Machine Learning Spring </a></td>
     <td><a href="https://stat110.hsites.harvard.edu/">Harvard probabilidade</a></td>
   </tr>
 
   <tr>
     <td></td>
     <td><a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html">Operating Systems</a></td>
-    <td><a href="https://github.com/ubccpsc/310/blob/main/resources/README.md">Software Engineering</a></td>
     <td><a href="https://course.ccs.neu.edu/cs2510sp22/index.html">Class-based Program Design</a></td>
+    <td><a href="https://github.com/ubccpsc/310/blob/main/resources/README.md">Software Engineering</a></td>
     <td><a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/">Tibishirano</a></td>
   </tr>
 
   <tr>
     <td></td>
     <td><a href="https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/"> 6.01SC - Circuitos</a></td>
+    <td></td>
     <td><a href="https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/"> 6.034 - Artificial Intelligence</a>
     </td>
-    <td></td>
     <td></td>
   </tr>
   
   <tr>
     <td></td>
     <td><a href="https://www.youtube.com/playlist?list=PLEE7DF8F5E0203A56">Teoria da computação</a></td>
-    <td><a href="https://computationalthinking.mit.edu/Fall24/semesters/">MIT Computational Thinking</a></td>
     <td></td>
+    <td><a href="https://computationalthinking.mit.edu/Fall24/semesters/">MIT Computational Thinking</a></td>
     <td></td>
   </tr>
 
   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td><a href="https://gaia.cs.umass.edu//kurose_ross/online_lectures.htm">Networking</a></td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/onlinelectures.html">Computer Graphics</a></td>
     <td></td>
+    <td><a href="https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/onlinelectures.html">Computer Graphics</a></td>
     <td></td>
   </tr>
 
