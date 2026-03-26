@@ -6,9 +6,8 @@ ideas from:
 
 ### Editando localmente
 
-    sudo apt install npm
-    sudo npm install -g md-fileserver
-    mdstart README.md
+    npx docsify-cli init .
+    npx docsify-cli serve .
 
 <table>
 <thead>
@@ -67,7 +66,7 @@ ideas from:
     <tr>
         <th>2-Científica</th>
         <th>3-Teoria-Computacional</th>
-        <th>4-Técnica</th>
+        <th>4-Genérica</th>
         <th>5-Sistemas-Computacionais</th>
         <th>6-Matemática</th>
     </tr>
@@ -83,7 +82,7 @@ ideas from:
         <a href="https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7">2011</a>,
         <a href="https://www.youtube.com/playlist?list=PL4C4720A6F225E074">2008</a>
     </td>
-    <td><a href="https://cursoseventos.nic.br/">HCIA Datacom [Huawei]</a></td>
+    <td><a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/"> 6.041 - Probabilidade</a></td>
     <td><a href="https://missing.csail.mit.edu/">The Missing Semester</a></td>
     <td> 
       <a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/">Cálculo 1</a> (<a href="https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1">Recitation 1</a>)         
@@ -131,7 +130,7 @@ ideas from:
     <td><a href="https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015">6.046J - Algorithms Analysis</a></td>
     <td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A">Udacity - Debugging</a></td>
     <td><a href="https://cs230.stanford.edu/lecture/">cs230 - deep learning</a></td>
-    <td><a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/"> 6.041 - Probabilidade</a></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -153,7 +152,7 @@ ideas from:
   <tr>
     <td></td>
     <td><a href="https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/"> 6.01SC - Circuitos</a></td>
-    <td></td>
+    <td><a href="https://cursoseventos.nic.br/">HCIA Datacom [Huawei]</a></td>
     <td><a href="https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/"> 6.034 - Artificial Intelligence</a>
     </td>
     <td></td>
