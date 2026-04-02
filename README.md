@@ -202,6 +202,48 @@ ideas from:
 </table>
 
 
+### Especializações Coursera:
+
+*   1 - [https://www.coursera.org/specializations/statistics-with-python](https://www.coursera.org/specializations/statistics-with-python)
+*   2 - [https://www.coursera.org/specializations/social-science](https://www.coursera.org/specializations/social-science)
+*   [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python)
+*   [https://www.coursera.org/specializations/database-systems](https://www.coursera.org/specializations/database-systems)
+*   [https://www.coursera.org/specializations/mathematics-machine-learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+*   [https://www.coursera.org/specializations/toefl-preparation](https://www.coursera.org/specializations/toefl-preparation)
+*   [https://www.coursera.org/specializations/web-applications](https://www.coursera.org/specializations/web-applications)
+*   [Web Design for Everybody](https://www.coursera.org/specializations/web-design)
+*   [software-engineering](https://www.coursera.org/specializations/software-engineering)
+*   [https://www.coursera.org/specializations/c-programming](https://www.coursera.org/specializations/c-programming)
+*   [https://www.coursera.org/specializations/ielts-preparation](https://www.coursera.org/specializations/ielts-preparation)
+*   [https://www.coursera.org/specializations/american-english-pronunciation](https://www.coursera.org/specializations/american-english-pronunciation)
+*   [https://www.coursera.org/specializations/c-programming-for-everybody](https://www.coursera.org/specializations/c-programming-for-everybody)
+*   [https://www.coursera.org/specializations/rust-programming](https://www.coursera.org/specializations/rust-programming)
+*   [https://www.coursera.org/specializations/intermediate-grammar](https://www.coursera.org/specializations/intermediate-grammar)
+*   [https://www.coursera.org/specializations/logic-critical-thinking-duke](https://www.coursera.org/specializations/logic-critical-thinking-duke)
+*   [https://www.coursera.org/specializations/speaklistenenglish](https://www.coursera.org/specializations/speaklistenenglish)
+*   [https://www.coursera.org/specializations/pcdp](https://www.coursera.org/specializations/pcdp)
+*   [https://www.coursera.org/specializations/academic-english](https://www.coursera.org/specializations/academic-english)
+*   [GIS](https://www.coursera.org/specializations/gis-mapping-spatial-analysis)
+
+### Cursos avulsos Coursera:
+
+*   [Bienvenidos al español: A1.1](https://www.coursera.org/learn/bienvenidos-al-espanol-a1-1/home/welcome)
+*   [Introducción a Java](https://www.coursera.org/learn/introduccion-java/home/welcome)
+*   [Diseño instruccional para el aprendizaje activo](https://www.coursera.org/learn/aprendizaje-activo/home/welcome)
+*   [Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro/home/welcome)
+*   [English Composition I](https://www.coursera.org/learn/english-composition/home/welcome)
+*   [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation/home/welcome)
+*   [https://www.coursera.org/learn/introduction-to-academic-writing/home/welcome](https://www.coursera.org/learn/introduction-to-academic-writing/home/welcome)
+*   [Writing in the Sciences](https://www.coursera.org/learn/sciwrite/home/welcome)
+*   [https://www.coursera.org/learn/how-to-write-a-scientific-paper/home/welcome](https://www.coursera.org/learn/how-to-write-a-scientific-paper/home/welcome)
+*   [https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/welcome](https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/welcome)
+*   [Curso Machine Learning (antigo) (Andrew Ng)](https://www.coursera.org/learn/machine-learning-course/home/welcome)
+*   [The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world/home/welcome)
+*   [Historia del Arte: Del Arte Prehistórico al Renacimiento](https://www.coursera.org/learn/historia-arte-prehistorico-renacimiento/home/welcome)
+*   [Getting Started With Music Theory](https://www.coursera.org/learn/music-theory/home/welcome)
+*   [https://www.coursera.org/learn/activism-social-movements/home/welcome](https://www.coursera.org/learn/activism-social-movements/home/welcome)
+*   [Laboratório de Programação Orientada a Objetos - Parte 1](https://www.coursera.org/learn/lab-poo-parte-1/home/welcome)
+
 ### Talvez
 
 - Nand To Tetris - Part 1 - https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1 - parte 2 - https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh
