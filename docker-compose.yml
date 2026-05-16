@@ -1,0 +1,9 @@
+services:
+  docsify:
+    build: .
+    container_name: my-crazy-repo
+    volumes:
+      - ./:/docs
+    ports:
+      - "3000:3000"
+    user: "${UID:-1000}:${GID:-1000}"
